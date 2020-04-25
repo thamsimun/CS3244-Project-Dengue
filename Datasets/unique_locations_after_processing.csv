@@ -1,5 +1,4 @@
-unique location,X,Y
-nan
+unique location
 Tampines Street 11 
 Tai Keng Gdns
 Farrer Dr 
@@ -834,7 +833,7 @@ Sembawang Cres
 "Lor 32, 34Geylang"
 Kim Keat Lk 
 Jurong West St 65
-"Eastwood  Dr, Green,  Pl, Walk "
+"Eastwood Dr, Green, Pl, Walk "
 "Lor 4, 6, 7 Realty Pk"
 Hougang St 52 
 Farrer Rd 
@@ -845,7 +844,7 @@ Boon Teck Rd
 Punggol Central 
 "Pasir Ris Hts, View"
 Lor 105 Changi 
-Jln Malu  Malu 
+Jln Malu Malu 
 Jurong West St 71 
 Kingswear Ave
 Sims Ave
@@ -1338,7 +1337,6 @@ Upp East Coast Rd
 Bukit Batok St 21 
 Choa Chu Kang Nth 6 
 "Peakville Gr, Walk"
-"408, 411)"
 S goon Nth Ave 1 
 Amber Rd 
 St. Patrick's Rd 
@@ -1365,7 +1363,7 @@ Jln Bangsawan
 Elias Ter 
 Pemimpin Dr 
 Chuan Cl 
-Brighton  Cres 
+Brighton Cres 
 Geylang EastAve 1 
 Toa PayohCentral 
 Lor Kismis 
@@ -1403,7 +1401,7 @@ Lor Marzuki
 "East Coast Rd, Ter"
 "Eastwood Dr,Green, Pl, Ter,Way "
 Yishun St 72
-Tampines Ctrl  1 
+Tampines Ctrl 1 
 Frankel Ter 
 Joo Chiat Walk
 Lentor Green
@@ -1517,7 +1515,7 @@ Kurau Ter
 "Mimosa Cres, Rd, View "
 Tampines St 21
 Jln Limbok 
-Woodlands  Ave 1 
+Woodlands Ave 1 
 Bt Batok East Ave 4 
 Lor 4 Toa Payoh 
 Joo Hiang Rd 
