@@ -1,7 +1,7 @@
 unique location,X,Y
 Compassvale Lane ,35209.8504945813,40664.469265380896
 Lowland Road,33599.4615805363,38148.481074933
-Punggol Drive ,36385.0907721389,42940.2917501666
+Punggol Drive ,36057.7168912543,41332.0669061542
 Paya Lebar Way,33945.040987731896,33880.9435985293
 Pasir Ris Street 41 ,,
 Cheng Soon Gdn,,
@@ -10,12 +10,12 @@ GilStreetead Road ,,
 Pasir Ris Street 11 ,41653.984165736496,38943.6256381869
 Joo Chiat Pl ,,
 Jalan Novena Barat ,28964.718949004102,33908.5985472128
-Walk ,,
+Walk ,31003.120307818997,30563.4407963138
 Jalan Joran,,
 Loyang Besar Cl ,,
 Eden Gr ,,
 Jalan Buloh Perindu,,
-Farrer Road,25595.5793600511,33542.2408048231
+Farrer Road,30045.6678285943,32875.2093872223
 Marine Terminal ,,
 Serangoon Avenue 4 ,,
 StreetamfoRoad Road,,
@@ -44,11 +44,11 @@ Choa Chu Kang Street 64 ,18546.638798736,42188.029171235896
 Tampines Avenue 9 ,,
 Jalan Mata Ayer ,,
 Jalan Bangau ,,
-Compassvale Lane ,,
+Compassvale Lane ,35209.8504945813,40664.469265380896
 Towner Road,,
 CrowhurStreet Drive ,,
-Usaha ,,
-Choa Chu Kang Avenue 4 ,17986.4673777334,40773.7982819472
+Usaha ,33464.5496706488,36342.0457039196
+Choa Chu Kang Avenue 4 ,31765.2712856904,34981.4189900439
 Tampines Avenue 5 ,,
 Pasir Ris Street 41 ,,
 Jalan Leban,,
@@ -65,17 +65,17 @@ Tampines Avenue 7 ,,
 "EaStreetwood Green, Terminal, Way",,
 "Lorong 16, 20, 22 Geylang ",,
 Canberra Drive ,,
-Woodlands Circle ,24323.3708445812,47289.5891344547
+Woodlands Circle ,21790.1187345283,46186.983330907315
 FLoronga Road ,,
 Chai Chee Road ,,
-Grace Walk ,31937.7207620172,37839.001837897995
+Grace Walk ,35446.5266044009,41246.4615114741
 Tai Thong Cres ,,
 South Buona ViStreeta Road,,
 Jalan Belangkas ,,
 Keppel Bay Drive ,,
 Boon Lay Avenue,14160.7972129667,36777.0499923937
 Ang Mo Kio Avenue3 ,,
-Bishan Street 24,28973.899621949502,37860.1499570496
+Bishan Street 24,29980.718607525298,36604.5431582369
 Joo Chiat Road ,,
 Choa Chu Kang Avenue4 ,,
 Ah Soo Gdn,,
@@ -90,7 +90,7 @@ Lorong 7 Toa Payoh ,,
 Fidelio Street ,,
 Bukit Batok Street21 ,,
 Jurong WeStreet Street 61 ,,
-Frankel Avenue,37061.5022681616,33459.8954535984
+Frankel Avenue,37599.5564799793,33196.1020452902
 Tg Rhu Road ,,
 Pillai Road,,
 Elliot Road ,,
@@ -120,7 +120,7 @@ Bt Batok EaStreet Avenue 3 ,,
 Hindoo Road ,30270.207566591,32350.2872125525
 Fernvale Lane ,,
 Jalan TenTerminalam ,,
-Boon Keng Road,30971.7380688172,33164.8201749213
+Boon Keng Road,31197.8245915854,33577.7477830388
 Woodlands Avenue1 ,,
 WeStreet CoaStreet Road ,,
 FLoronga Road,,
@@ -148,16 +148,16 @@ Lorong 3 Geylang ,,
 Joo Avenue,,
 Rochor Road ,,
 New Upp Changi Road ,,
-Lorong 24A Geylang ,33652.2907744935,32818.3425047733
+Lorong 24A Geylang ,33365.7813957455,32919.469805792
 Geylang EaStreet Avenue 1 ,,
 Bishan Street 15 ,30047.5192303546,37182.7888938412
 "Bedok Lane, Road, Walk ",,
 Jalan Kechubong ,32675.7825715635,40926.486154921404
-Jalan Damai,36298.4486082122,35185.2975904793
+Jalan Damai,36263.8498208486,34896.836047852405
 Hougang Avenue 5 ,,
 Jurong WeStreet Ctrl 1 ,,
 Bt Batok EaStreet Avenue 2 ,,
-Boscombe Road ,,
+Boscombe Road ,35500.1004815605,32636.394783817203
 "Lorong 17, 21 Geylang",,
 Haig Road ,,
 Admiralty Lk ,,
@@ -205,7 +205,7 @@ Joo Chiat Lane,,
 Pulasan Road ,36098.6262202747,32747.4327004757
 Dakota Cres,,
 Lothian Terminal,,
-Sungei Kadut Street 4,18757.3863548599,44553.575342834
+Sungei Kadut Street 4,18444.7237734413,45718.8210413642
 "Lorong 1, 6, 7Realty Park ",,
 Lentor Green,28431.142007607003,40968.893506990695
 Jalan Teck Whye ,,
@@ -227,7 +227,7 @@ Jalan Rajah ,,
 Kaki Bt Ind Terminal ,,
 Kang Choo Bin Walk ,33370.7333589531,38595.3504735585
 Punggol Road ,,
-Lengkok Bahru ,,
+Lengkok Bahru ,25516.213740482002,29930.520094839903
 WeStreet CoaStreet Cres ,,
 Almond Cres ,,
 Kim Keat Road ,,
@@ -250,7 +250,7 @@ Tampines Street 83 ,39266.4328370281,36942.008596768595
 Chai Chee Street ,,
 "Frankel Cl, Drive, Street",,
 Jalan Kemboja ,,
-Jalan Damai ,36298.4486082122,35185.2975904793
+Jalan Damai ,36263.8498208486,34896.836047852405
 Simei Street 3 ,,
 Hacienda Gr ,,
 Bedok Reservior Road ,,
@@ -284,16 +284,16 @@ Choa Chu Kang Avenue 5 ,,
 Jurong WeStreet Street41 ,,
 Choa Chu Kang Street 64,,
 Bedok North Avenue 3 ,,
-Defu Lane 8,34902.7146351133,37494.139721380496
+Defu Lane 8,34848.8969493452,35804.7463756166
 Kensington Park Drive ,,
-Geylang Serai ,,
+Geylang Serai ,33178.881408901,35361.8010092042
 "Merryn Avenue, Road, Terminal",,
 Choa Chu Kang North 6 ,,
 "Lorong K, L Telok Kurau",,
-Choa Chu Kang Avenue 1,18760.7054814184,40361.808103554
+Choa Chu Kang Avenue 1,31765.2712856904,34981.4189900439
 Loyang Besar Cl,,
-Bedok North Avenue 3 ,39410.7197100483,34355.3472371195
-Punggol Walk,35356.3056146158,42591.3937915042
+Bedok North Avenue 3 ,40016.9903901685,34960.6840288695
+Punggol Walk,35555.2959962161,40540.947409641
 "Woodlands Ind Park E3, E5, E7, E9",,
 Serangoon Avenue 2 ,,
 Whampoa Drive ,30719.291370905,34105.8726130649
@@ -308,12 +308,12 @@ Cashew Road ,,
 Changi Road,36684.266817784905,33390.350947240404
 Hougang Avenue 2 ,,
 Old Choa Chu Kang Road ,15203.2404349269,39687.464274033904
-Sembawang Drive ,,
+Sembawang Drive ,27598.686887791402,39873.616581145696
 Kaki Bt Road 3,,
 Clementi Avenue 4 ,,
 Bayshore Road ,,
-Jalan Masjid ,36816.734255039104,33538.086857006
-Kranji Way,18678.2506206278,46240.2277713325
+Jalan Masjid ,24134.4823722783,30226.288934092998
+Kranji Way,17793.655418041202,42890.4154401664
 Tampines Avenue 3 ,,
 Punggol Drive ,,
 "Kew Cres, Walk",,
@@ -328,8 +328,8 @@ Fulton Avenue ,27920.4485396715,38203.0989553873
  Kurau Gr ,,
 Anchorvale Link,34468.3032964421,41114.2921835892
 Bayshore Road,,
-Shan Road,29507.5314997379,34238.2172531094
-Geylang Road ,32381.0281637833,32555.4002927039
+Shan Road,28849.6265148548,29254.1231274474
+Geylang Road ,33178.881408901,35361.8010092042
 Upp Boon Keng Road  ,,
 Bkt Timah Road ,,
 Jalan Limau Bali ,,
@@ -338,11 +338,11 @@ Pasir Ris Drive 4,42254.1038770089,39487.269771505096
 "Sea Breeze Avenue, Walk ",,
 Court Road ,,
 Woodlands Drive 52 ,24075.746229959703,46127.7024254166
-Eunos Avenue 5 ,35444.7428818522,33809.3724387884
+Eunos Avenue 5 ,35200.9299749564,33996.3114107959
 Bayshore Road ,39880.2693023579,32978.9686407652
 Tampines Street 21 ,,
 Ee Teow Leng Road,,
-Bedok Reservoir View ,,
+Bedok Reservoir View ,38560.1667876765,35424.2479760591
 Pandan Gardens,18760.8948379252,33623.8016099129
 "Eng Kong Cres,Terminal",,
 Woodlands Drive 14 ,,
@@ -375,7 +375,7 @@ Jalan Tanjong ,,
 Lorong 7 Toa Payoh ,30239.6090564914,35732.9267157279
 Lorong 33 Getlang ,,
 ALanewick Road ,,
-Woodgrove Avenue ,22519.1200350253,45711.9711545054
+Woodgrove Avenue ,22623.6309636757,45943.5391788557
 Jalan Jarak ,32742.5009562802,40409.0906894952
 "Lorong 24A, 26,28 Geylang",,
 Woodlands Avenue 6 ,,
@@ -417,14 +417,14 @@ Marine Cres  ,,
 Hoy Fatt Road ,,
 "Eng KongCres, Gdn",,
 Lorong How Sun ,,
-Punggol Drive,36385.0907721389,42940.2917501666
+Punggol Drive,36057.7168912543,41332.0669061542
 "WeStreet CoaStreet Avenue, Terminal",,
 Bt Batok Street 31 ,,
 Keppel Bay View ,,
 Clive Street ,30095.2110999702,31944.3877091836
 Woodlands Drive 70 ,,
 Jalan PutehJerneh ,,
-Brighton Avenue ,,
+Brighton Avenue ,37634.7152855769,32872.8637092877
 Kaki Bt Pl ,,
 Kang Choo BinRoad ,,
 Punggol Field Walk ,,
@@ -438,7 +438,7 @@ Grace Walk ,,
 "Yunnan Cres, Drive 2, 3",,
 Pasir Ris Drive 6 ,,
 Jalan Lakum ,32271.3668652913,40808.577194081605
-Farrer Road ,25595.5793600511,33542.2408048231
+Farrer Road ,30045.6678285943,32875.2093872223
 Ang Mo Kio Avenue 3 ,,
 Jalan Molek ,33557.2401344217,32624.1737827118
 Yishun Street 61 ,,
@@ -451,7 +451,7 @@ FLoronga Drive ,,
 Tampines Street 73 ,38913.8436977519,37818.3648239188
 Sgn Avenue 4 ,,
 Jalan Tenaga ,,
-Lorong 16 Geylang ,33217.022518934704,32731.006326248906
+Lorong 16 Geylang ,34314.7456124201,33171.5262888577
 Yishun Street 81 ,28005.5299047502,43731.9742311761
 Chempaka Avenue ,32667.729925835498,34825.8161891662
 Bedok Ria Cres ,,
@@ -472,7 +472,7 @@ Charlton Lane,,
 Bishan Street 11 ,,
 "Bedok Lane, Road",,
 Hougang Avenue 4 ,33924.3504296904,40034.935642087796
-Brighton Avenue ,32451.435459015,37963.6466661002
+Brighton Avenue ,37634.7152855769,32872.8637092877
 Lakeside Drive ,15278.652087247,36128.3689939398
 Kaki Bukit Avenue 1 ,,
 Kim Chuan Drive,,
@@ -481,7 +481,7 @@ Phillips Avenue ,32694.273161744703,38434.4692087341
 Yishun Street 61,28332.3793625487,44923.5574643966
 Woodlands Drive 14 ,,
 Eunos Cres ,,
-Hougang Avenue 2 ,34303.6149851605,38684.7539553717
+Hougang Avenue 2 ,34662.3762808722,38354.3851483036
 Dunbar Walk ,,
 Jalan Membina,,
 Yung Ho Road ,,
@@ -507,14 +507,14 @@ Medway Drive ,,
 Woodlands Drive 14 ,,
 Pasir Ris Street 21 ,42328.7808345603,38775.8109468687
 Telok Blangah Hts ,,
-Bournemouth Road ,,
+Bournemouth Road ,34911.0193526102,31657.1992682219
 Tampines Street 33 ,,
 Bowmont Gardens ,,
 Joo Seng Road ,,
 Senja Cl ,,
 Kim Keat Lk ,,
 "Jalan Pari Burong, Dedap",,
-Canberra Road ,,
+Canberra Road ,26840.157443903398,47500.5072809346
 Jalan Anggerek,,
 Holland Road ,,
 Avenue 2 ,,
@@ -525,7 +525,7 @@ Clementi Avenue 4 ,,
 Balmeg Hill ,,
 "JalanGelenggang,Tarum ",,
 Lorong 24AGeylang ,,
-Dunman Road,34680.7427723194,32435.3665194083
+Dunman Road,35626.924634859904,32412.808124091494
 Kim Tian Road ,27381.709363383197,29361.7132483497
 Bedok North Avenue2 ,,
 "Pasir Ris Lk, Rise",,
@@ -544,7 +544,7 @@ Sembawang Cres ,,
 Tanah Merah Kechil Road South ,,
 Thiam Siew Avenue,,
 Venus Road,27407.2332644043,37801.6456977539
-"Lorong 4, 6, 7 Realty Park",,
+"Lorong 4, 6, 7 Realty Park",34046.9451165525,38931.068692730696
 Lorong 37 Geylang ,34244.6723546563,33063.4636847302
 Admiralty Drive ,,
 Sin Ming Avenue,27985.169933626406,38284.4509113878
@@ -557,7 +557,7 @@ HAvenuelock Road ,,
 Sungei Kadut Street 1,,
 Towner Road ,,
 Ong Lye ,,
-Bedok North Avenue 2 ,39077.5057125092,34527.0856277049
+Bedok North Avenue 2 ,40016.9903901685,34960.6840288695
 Senja Road ,,
 HenDrivey Cl ,,
 Recreation Lane ,32517.981437296603,37138.7043625247
@@ -566,7 +566,7 @@ Hougang Avenue 7 ,,
 Woodlands Street 82,23168.8293882245,47077.5412960183
 "Kings Drive, Road ",,
 Chai Chee Road ,38190.2934795152,34348.8234877847
-Bedok North Street 2 ,39325.1157076955,34730.382205082096
+Bedok North Street 2 ,39784.4447099427,34887.5066380352
 AlexanDrivea Road ,,
 Lorong 3 Geylang Road ,,
 Lucky Hts ,,
@@ -617,7 +617,7 @@ Frankel Avenue ,,
 StreetuRoadee Road,,
 "Pasir Ris Drive 3, Drive 4, Lk, Rise ",,
 Fernvale Cl,,
-Choa Chu Kang Avenue 2 ,18274.3004964814,40109.0160782151
+Choa Chu Kang Avenue 2 ,31765.2712856904,34981.4189900439
 "Lorong 1, 4, 6, 7Realty Park ",,
 Cairnhill Circle,28566.970643917997,32085.9371457566
 Boundary Cl ,,
@@ -637,9 +637,9 @@ Yishun Street 31 ,29307.905732622403,45931.3673632238
 Tanah Merah Kechil Road ,,
 Woodlands Drive 14 ,,
 Lakeside Drive,15278.652087247,36128.3689939398
-Owen Road ,,
+Owen Road ,29898.5354321562,33088.1162007693
 Begonia Drive,,
-Serangoon Avenue 2 ,31972.508270259,37294.217328025
+Serangoon Avenue 2 ,32617.887455440097,38809.7847003676
 Pandan Gardens ,,
 Telok Blangah Cres ,,
 Casuarina Walk ,27310.1167133721,39852.0821819864
@@ -657,7 +657,7 @@ Akyab Road ,29595.9222753514,33886.0560728554
 Bangkit Road ,,
 Hougang Avenue 2 ,,
 Jalan Molek ,,
-Eunos Avenue 7 ,35307.2960283281,33966.5495380349
+Eunos Avenue 7 ,35151.9060113765,33993.703460782795
 Lorongong Marican ,,
 Toh Guan Road EaStreet ,,
 Bishan Street 23 ,29516.5829283921,37461.9297135603
@@ -667,7 +667,7 @@ WoodlandsAvenue6,,
 Jalan Berseh ,,
 Rosyth Road ,,
 "Bright Hill Cres, Drive ",,
-Carisbrooke Grove ,,
+Carisbrooke Grove ,31417.7410766771,38038.396902442
 Beo Cres ,,
 Carpmael Road ,,
 Chai Chee Driveive ,,
@@ -684,7 +684,7 @@ Marsiling Lane ,,
 "Lorong K, L TelokKurau",,
 Hougang Avenue 8 ,,
 "VeRoade Avenue, Grove, Pl, Walk",,
-Holland Avenue,23797.752112803,32406.265336195
+Holland Avenue,23589.689145227003,32867.3744591009
 "Bedok Cl, Rise, Terminal ",,
 Quemoy Road ,,
 Serangoon Ctrl ,,
@@ -693,7 +693,7 @@ Ho Ching Road ,15756.7578029251,35120.5024637152
 Tai Yuan Hts,,
 Jurong EaStreet Street 21,,
 Hougang Avenue 5,34745.3127960879,38868.5948176384
-Bedok Reservoir View ,39340.0861011017,35405.2074468825
+Bedok Reservoir View ,38560.1667876765,35424.2479760591
 Sembawang Pl ,,
 "Lorong 1, 4 Realty Park",,
 Jurong WeStreet Street 81,,
@@ -746,11 +746,11 @@ Rangoon Road ,30428.2775713569,32758.313011510298
 Jalan Hock Chye ,,
 Potong Pasir Avenue 1 ,31902.014741540897,35039.283172287
 Jurong EaStreet Street 31 ,,
-Bendemeer Road ,,
-Lorong 8 Toa Payoh,30840.3814665647,35490.0111637451
+Bendemeer Road ,31077.3567148671,34094.3010115493
+Lorong 8 Toa Payoh,30592.3989633033,35561.5570799895
 Lorong 4 Geylang ,,
-Lorong H Telok Kurau ,36094.267146332204,33099.212594939396
-Farrer Park Road,30091.2292861762,32740.4760281704
+Lorong H Telok Kurau ,36572.136045305095,32805.7619805578
+Farrer Park Road,30045.6678285943,32875.2093872223
 Tanjong Rhu Road ,,
 Kismis Avenue,21048.9415624905,35228.063769497
 "Holland Hill, Road",,
@@ -761,7 +761,7 @@ Rivervale Street ,,
 Dorset Road ,,
 Crane Road ,,
 Lentor Loop ,28363.3683296377,40841.7513279878
-Lorong L Telok Kurau,37147.8508023787,32761.6604991704
+Lorong L Telok Kurau,36572.136045305095,32805.7619805578
 Hougang Avenue 10 ,,
 Jalan Hajjah ,,
 Tampines Street 23 ,41429.2045237012,37346.9064417537
@@ -808,7 +808,7 @@ Ang Mo Kio Avenue 10,30456.0196312964,38119.944450153
 Choa Chu Kang Road,,
 Flander Sq ,,
 Yishun Avenue 11 ,,
-Lorong 31 Geylang ,33922.0239719255,32972.9730374776
+Lorong 31 Geylang ,34362.056922677,33151.116678241604
 Bishan Street 12,29678.481923902404,36333.2141721677
 Sgn Avenue 1 ,,
 Hoy Fatt Road ,25595.6056023929,29989.527408024303
@@ -826,16 +826,16 @@ Bt Batok EaStreet Avenue 5 ,,
 FLoronga Drive ,,
 Arthur Road ,34131.902080217405,31950.7642653137
 Jurong EaStreet Streetreet 21 ,,
-Jalan Bt Merah ,,
+Jalan Bt Merah ,25365.856956274198,29790.2633130457
 Jurong WeStreet Street 71 ,,
-Jalan Manis ,31393.446994101603,34147.7820870727
+Jalan Manis ,28120.4750246229,31912.8065187242
 Ang Mo Kio Avenue 2,,
 "Bedok Rise, Terminal ",,
 Bt Batok WeStreet Avenue 5 ,,
 Jalan Senang ,,
 Woodlands Street 82 ,,
 Pandan Gardens ,18760.8948379252,33623.8016099129
-Edgefield Plains ,,
+Edgefield Plains ,35957.3553702235,42151.1449694932
 Jalan Ishak ,36103.040745164304,34078.7213236317
 Clementi Street 11 ,,
 Amber Road ,35256.6880503567,31247.0268033221
@@ -844,7 +844,7 @@ Bt Batok Street 21,,
 Kingswear Avenue,31669.254975866494,38778.090761669
 Woodlands Street 82 ,,
 Upp Aljunied Lane ,,
-Woodleigh Park,31562.2153993212,36189.0080238581
+Woodleigh Park,32081.642149134503,35594.2796155773
 "Lorong 4, 8 Geylang",,
 Upp EaStreet CoaStreet Road ,,
 Segar Road ,,
@@ -852,7 +852,7 @@ Kallang Avenue,,
 "Casuarina Road, Walk",,
 Hythe Road ,,
 Jalan Peradun,,
-Marine Parade Road ,36015.2805121867,31490.3124116734
+Marine Parade Road ,35605.521235534,32669.036836836494
 Boon Lay Drive ,,
 Toh Tuck Road ,21058.0928149549,35761.3548903242
 Jalan Jamal ,,
@@ -868,7 +868,7 @@ Clementi Street 12 ,,
 Jalan Kakatua ,,
 Ang Mo Kio Avenue 4 ,,
 Pending Road ,20814.1899516117,40059.2876575831
-Woodlands Road ,,
+Woodlands Road ,19312.459618293702,41279.4289150499
 Ang Mo Kio Street 52 ,,
 Macpherson Lane ,,
 "Lorong 12, 16 Geylang",,
@@ -891,7 +891,7 @@ Pine Gr ,,
 Jalan Remis ,39441.2516911197,33019.140308754504
 Choa ChuKang Avenue 2,,
 "Almond Avenue, Cres",,
-Bendemeer Road ,31075.442507040698,33087.9396476205
+Bendemeer Road ,31077.3567148671,34094.3010115493
 Rivervale Street ,35759.6230470985,41210.9159113113
 "EaStreetwood Drive,Green, Pl, Terminal, Way ",,
 "Lorong 8, 12Geylang",,
@@ -901,26 +901,26 @@ Woodlands Drive 16,23466.7301529124,45709.85917567281
  Gangsa Road ,20668.4593563033,40126.6000212133
 Upp Boon Keng Road ,,
 Choa Chu Kang Central ,,
-Bedok South Avenue 2 ,39249.280394407004,33826.9731199797
+Bedok South Avenue 2 ,39173.8123528333,33678.8556520119
 Pulasan Road ,,
 "Robin Cl, Walk",,
-Lorong 6 Geylang,32825.148049036005,32606.0418984052
+Lorong 6 Geylang,34299.7850863766,33054.3532940429
 Jalan Kayu ,,
-Boscombe Road ,34847.5864969902,32002.086386092004
+Boscombe Road ,35500.1004815605,32636.394783817203
 StreetuRoadee Road ,,
 FLorongence Road ,,
 Jalan Paras ,37170.6740425527,34320.0571290087
-Choa Chu Kang North 5 ,18494.7997310627,41597.4832232129
+Choa Chu Kang North 5 ,18006.5207644496,41974.0672460441
 Woodlands Street 41,21262.3016088251,45797.3416090962
 Mimosa Terminal,,
 ShelfoRoad Road,,
 Tampines Avenue 3 ,,
-Defu Lane 9 ,34885.7813024269,37366.2922983561
+Defu Lane 9 ,34726.7247732673,35866.8838523384
 Jalan Kechubong,32675.7825715635,40926.486154921404
 French Road ,31051.0679721655,32169.7455605119
 Jalan Pelajau ,32250.7778260671,40845.8229771573
 GlouceStreeTerminal Road ,,
-Tampines Street 71 ,39516.172245403795,37584.3524480071
+Tampines Street 71 ,39600.0301180445,39858.896715840296
 JalanTeck Whye ,,
 "Joo Chiat Avenue, Pl, Walk",,
 Yishun Street 72 ,27754.9160845922,45565.0463964362
@@ -937,17 +937,17 @@ Bishan Street 13 ,,
 Aroozoo Avenue ,,
 Yishun Avenue 11 ,,
 Balam Road ,,
-Ceylon Road ,35555.969368049904,32195.6167563777
+Ceylon Road ,30343.744147587597,33425.2933367565
 Jelebu Road ,20174.0998544404,40136.9607823063
 Yishun Avenue 5,,
-Sin Ming Drive,28388.762381008797,37628.4404601417
+Sin Ming Drive,27888.1927363919,37772.0512069426
  Hougang Avenue 3 ,34641.983650594,38464.2702785339
-Bedok North Avenue 1,38488.6816495443,34466.5712716114
+Bedok North Avenue 1,40016.9903901685,34960.6840288695
 Marsiling Cres ,,
 Cheng Soon Cres,21174.916759382,35366.0530252885
-GeyLang Road ,32381.0281637833,32555.4002927039
+GeyLang Road ,33178.881408901,35361.8010092042
 Choa Chu Kang Avenue 2 ,,
-Lorong L Telok Kurau ,37147.8508023787,32761.6604991704
+Lorong L Telok Kurau ,36572.136045305095,32805.7619805578
 Yishun Avenue 5 ,,
 Ernani Street ,,
 Kee Choe Avenue,,
@@ -976,7 +976,7 @@ Merryn Road ,26843.6043921579,34404.8790066615
 "Poh Huat Road, Terminal",,
 Tampines Street 41 ,40419.1449872525,37684.0250091925
 LincoLane Road ,,
-Hougang Avenue 1 ,34459.411955152595,37447.695437517
+Hougang Avenue 1 ,38416.3686215216,34881.7532694228
 Jalan Lanjut ,27605.665080633906,39155.2542650495
 Jalan Daud ,,
 Poh Huat Road WeStreet ,,
@@ -994,12 +994,12 @@ Bt Batok Street 34 ,,
 Mandai EStreetate,,
 Sembawang Cres,26373.8521254295,47351.518246375
 Lorong 1A Toa Payoh ,,
-"Lorong 6, 7 Realty Park",,
+"Lorong 6, 7 Realty Park",34027.0553282881,38963.7275747508
 Mt Rosie Road,,
 River Valley Road ,29306.138354784798,30283.546909159
 Jalan Isnin ,28363.9521082398,37297.3947701529
 ButTerminalfly Avenue ,,
-Court Road ,31806.7176595461,39098.8929487336
+Court Road ,29377.090836940297,30070.1272046287
 FirStreet Street ,,
 Jurong WeStreet Street 81 ,,
 Lew Lian Vale ,,
@@ -1015,7 +1015,7 @@ Punggol EaStreet ,,
 Ang Mo KioAvenue 3 ,,
 Eunos Cres ,,
 Woodlands Circle ,,
-Nathan Road ,27119.9670952596,31015.075525760698
+Nathan Road ,27365.8984280685,30760.438606279
 "Happy AvenueCentral, EaStreet,North ",,
 Hume Avenue,20526.9573193928,37815.1764247827
 Queen Street ,,
@@ -1040,14 +1040,14 @@ Palm Drive,,
 Clementi WeStreet Street 1 ,,
 Fernvale Lane ,,
 Holland Hill,,
-Compassvale walk ,,
+Compassvale walk ,35504.6550564105,41177.064137786605
 Jurong WeStreet Street 73 ,,
 Mayflower Way,28699.5623615142,39327.6604581587
 Cuff Road ,,
-Thomson Walk,27972.073279751494,39799.7882470544
-Ubi Road 1,34592.5717422673,34342.3611824568
+Thomson Walk,28907.7316907849,34177.2761487141
+Ubi Road 1,35345.0349071268,35136.8896409031
 Surin Avenue,,
-Fort Road ,33762.536789894104,31408.3807632495
+Fort Road ,25254.4268573504,26788.4669920318
 Tampines Street 84,39060.2799002966,37388.7975128256
 Jalan Terminalubok ,,
 Clementi Avenue 1 ,,
@@ -1078,8 +1078,8 @@ Fidelio Street ,37842.4301410727,33521.0796099044
 Tampines Street 11 ,,
 Tampines Street 32,41594.951881465495,37273.9431666359
 "Lorong 25, 25AGeylang",,
-Geylang Road ,,
-Jurong ,20905.8505169703,36254.298486175
+Geylang Road ,33178.881408901,35361.8010092042
+Jurong ,20538.497442204498,33046.5441542454
 Ang Mo Kio Avenue 3 ,,
 Geylang EaStreet Avenue 2,,
 Kaki Bt InduStreetrial Terminal,,
@@ -1110,17 +1110,17 @@ Street George's Road ,,
 Rifle Range Road,,
 Robin Lane ,27269.5485953325,33526.3179990407
 Bt PanjangRing Road ,,
-Yunnan Drive ,12254.0705123777,35547.583623161496
+Yunnan Drive ,10767.143251053101,36276.9650289975
 Joo Seng Road ,33050.8079748414,35265.3538951688
 Lorong 1 Toa Payoh ,,
 Sophia Road ,,
 Carlisle Road,,
-Compassvale Street ,,
-Yishun Avenue 7,27939.789932606694,46532.245015077315
+Compassvale Street ,35423.9469306916,41726.053748367405
+Yishun Avenue 7,27493.030709441802,45816.020799083606
 Street George's Road ,,
 Kim Keat Avenue ,30767.031639027402,34794.0403150357
 Corporation Drive,15712.303487652,35285.4564068224
-Jalan Chempedak ,,
+Jalan Chempedak ,27600.390400183398,39360.919584562995
 WeStreet CoaStreet Cres,,
 Farrer Drive ,,
 Pasir Ris Street 11,41653.984165736496,38943.6256381869
@@ -1145,8 +1145,8 @@ Jalan Krian ,37090.5520260707,34014.1446106378
 Woodlands Street 13 ,,
 Huddington Avenue,31651.7710988242,38705.6623823605
 Lorong Biawak ,32085.4054886214,36610.762078708
-Choa Chu Kang Avenue 3 ,18000.4719197797,40229.3834046926
-Lorong 40 Geylang ,34289.6763667827,32945.5115012117
+Choa Chu Kang Avenue 3 ,31765.2712856904,34981.4189900439
+Lorong 40 Geylang ,34485.9506205963,33184.222709184505
 Jalan Hussein ,,
 Simei Street 4 ,41713.490295292795,35981.208054794
 Primrose Avenue,39342.4261794593,33104.7751844507
@@ -1177,7 +1177,7 @@ Kwong Avenue,,
 Jalan Sentosa ,37339.3728919448,33798.8823728673
 "Kim Keat Cl, Lane ",,
 Redhill Cl,26252.5258184252,29670.2519380581
-Woodlands Rise ,24750.7252936531,47717.5146193076
+Woodlands Rise ,22209.7319954252,46712.0993114766
 Upp EaStreet CoaStreet Road,,
 Lorong 7 ToaPayoh ,,
 "Lorong J, K Telok Kurau",,
@@ -1185,7 +1185,7 @@ Vaughan Road,32167.0784063218,36546.3843777087
 Compassvale Street ,35423.9469306916,41726.053748367405
 Eng Kong Terminal ,,
 WoodlandsCres ,,
-Serangoon North Avenue 4,32721.4528728146,39613.6607899573
+Serangoon North Avenue 4,32122.361213609598,39227.7778674364
 S�goon Avenue 2 ,,
 Rivervale Walk ,35339.7832000759,40524.6671087034
 Jalan Sinar Bulan ,43529.8170315092,38316.5065524913
@@ -1213,19 +1213,19 @@ Bishan Street 22 ,,
 Fulton Road ,,
 Bt Batok Ctrl Lk ,,
 Woodlands Street 31 ,21344.832048771,45914.1833813638
-Bedok Reservoir View,39340.0861011017,35405.2074468825
+Bedok Reservoir View,38560.1667876765,35424.2479760591
 Bournemouth Road,34911.0193526102,31657.1992682219
 Jalan Damai ,,
 Simei Rise ,42253.662146055096,36883.0909373518
-Serangoon North Avenue 4 ,32721.4528728146,39613.6607899573
+Serangoon North Avenue 4 ,32122.361213609598,39227.7778674364
 Thomson Road ,,
 Pasir Ris Street 12 ,,
 Mei Ling Street ,,
-Macpherson Lane ,,
+Macpherson Lane ,33895.912357464396,34930.1018332131
 Woodlands Drive 14 ,23402.643993131802,46071.151359111114
 Tuas South Way,,
 "Jurong WeStreet Street 91, Jurong WeStreet Street 92",,
-Canberra Drive ,27187.273526364,47499.5603167955
+Canberra Drive ,26276.624097413398,48149.4313918334
 Grace Walk,,
 Marsiling Lane,21913.0720364619,46910.3239130881
 Clementi WeStreet Street 2 ,,
@@ -1251,8 +1251,8 @@ Lorong 16 Geylang ,,
 Amber Road,35256.6880503567,31247.0268033221
 Champions Way ,23097.213401598907,45797.6736488771
 Tampines Street 84 ,,
-Toh Guan Road,18137.962782952,35874.386619607
-Kampong Eunos ,36097.279809555,33414.6755702123
+Toh Guan Road,21415.0252282871,30256.0056470241
+Kampong Eunos ,35769.8708480773,33787.3495143708
 White House Park,26893.2170377523,33176.7808713671
 "Siglap Road, Drive",,
 Sembawang Cl,26434.74092675,47544.70189690781
@@ -1260,7 +1260,7 @@ Lorong Melayu ,,
 Lorong Kismis,,
 Bt Batok WeStreet Avenue 8 ,,
 Upp Boon Keng Road,,
-Bedok North Street 3,38889.5936853616,34871.7969491277
+Bedok North Street 3,39784.4447099427,34887.5066380352
 Ubi Avenue 4,34761.5935813142,35215.6273814179
 "Begonia Cres, Drive ",,
 Kensington Park Road,,
@@ -1277,7 +1277,7 @@ Yuan Ching Road,,
 Elias Road ,,
 Serangoon Ctrl ,,
 "Pasir Ris Hts, View",,
-Lorong 23 Geylang ,33302.953566852004,32867.24627419
+Lorong 23 Geylang ,32568.7295863004,33020.3444902189
 Bedok InduStreetrial Park E ,,
 Woodlands Street 83 ,,
 Harvey Road ,,
@@ -1286,7 +1286,7 @@ Teck Whye Avenue ,,
 Yishun Street 21 ,,
 Bedok North Road ,,
 "Kim Chuan Drive, Terminal",,
-Siglap Road ,38287.2081733635,32113.9154473096
+Siglap Road ,37241.2391247842,33653.3905919511
 Cuff Road ,30149.50913864,32165.631203217403
 Woodlands Ring Road ,,
 Kaki Bt Avenue 3,,
@@ -1300,7 +1300,7 @@ Jalan Menarong ,27608.742002786094,39240.1566555407
 Corporation Road ,,
 Jalan Chegar ,,
 Ang Mio Kio Avenue 10 ,,
-Anchorvale Link ,,
+Anchorvale Link ,34468.3032964421,41114.2921835892
 Ang Mo Kio Avenue 4 ,,
 Cheow Keng Road ,,
 Lorong Sarina,36285.006112355695,33428.1469114572
@@ -1308,7 +1308,7 @@ Tampines Street 81 ,39473.626387040094,36564.7366734706
 Jurong WeStreet Street64 ,,
 Mt Sophia ,,
 Lorong 8 Toa Payoh ,,
-Woodlands Circle,24323.3708445812,47289.5891344547
+Woodlands Circle,21790.1187345283,46186.983330907315
 Lim Tua Tow Road ,,
 "Lorong 1, 4 Realty Park",,
 Margate Road,,
@@ -1325,16 +1325,16 @@ Compassvale Walk ,35504.6550564105,41177.064137786605
 Pasir Ris Drive 6,41645.4048570916,39514.0628393516
 Branksome Road ,,
 Telok Kurau Road,,
-Lorong 30 Geylang ,33914.947287065,32860.992363929705
+Lorong 30 Geylang ,34082.785133391604,33089.6506967396
 Elizabeth Drive ,,
 How Sun Close,,
 Bloxhome Drive,31417.023876803,38127.825627753504
 "Lorong 4, 6, 7Realty Park",,
 Hillside Drive ,,
-Ang Mo Kio Avenue 4 ,28476.5936832121,39368.9465025049
-Branksome Road ,,
+Ang Mo Kio Avenue 4 ,33466.8538511777,39608.987564610296
+Branksome Road ,34277.363381274,31726.9415758513
 "EaStreetwood Drive, Green, Pl, Terminal,Way ",,
-Bendemeer Road,31075.442507040698,33087.9396476205
+Bendemeer Road,31077.3567148671,34094.3010115493
 Ubi Avenue 4 ,,
 Chai Chee Road,38190.2934795152,34348.8234877847
 Woodlands Ring Road ,23974.7236258965,46491.384235901794
@@ -1345,7 +1345,7 @@ Tampines Street 91 ,39732.4713432258,36881.634956531205
 Bt Batok Street 21 ,,
 Ubi Avenue 4,,
 Woodgrove Drive ,,
-Kallang Bahru ,,
+Kallang Bahru ,31854.937342262798,33937.7655027546
 Wimborne Road,33847.2948323702,31838.738341130298
 Tampines Street 82,39295.7205315568,36884.4137390442
 Metropole Drive ,38144.269375802,33721.4701581635
@@ -1386,7 +1386,7 @@ Jalan Gembira,,
 Wilkinson Road,,
 Aljunied Cres ,,
 Jurong WeStreet Avenue 1 ,,
-Elias Road,40262.5169492308,39982.4870680273
+Elias Road,29910.1206542635,31553.3446705304
 Hillside Drive ,,
 Chartwell Drive ,,
 Woodlands Drive 42 ,23904.5753943371,46704.192920645706
@@ -1395,7 +1395,7 @@ Henderson Road ,,
 Gangsa Road,20668.4593563033,40126.6000212133
 BriStreetol Road ,,
 Raglan Gr ,,
-Anchorvale Lane ,,
+Anchorvale Lane ,33726.598946930804,41470.2628620062
 Belimbing Avenue ,32678.6017012987,34900.1869860627
 Bt Terminalesa Cl ,,
 Tampines Street 84 ,39060.2799002966,37388.7975128256
@@ -1423,7 +1423,7 @@ Jurong EaStreet Street 21 ,,
 Kang Choo Bin Walk ,,
 Ang Mo Kio Avenue 10 ,,
 Park Villas Green,,
-Yishun Central ,,
+Yishun Central ,28707.352220607,45751.47317362201
 Everton Road,,
 Serangoon Avenue 3 ,,
 Potong Pasir Avenue 2 ,,
@@ -1432,7 +1432,7 @@ Hougang Avenue 9 ,,
 Clementi Avenue 1 ,21027.7826074008,32147.734107662003
 Wellington Circle ,26670.694297654598,48135.707010245
 Duku Road ,35824.6015373068,32293.0491840895
-Canberra Drive,27187.273526364,47499.5603167955
+Canberra Drive,26276.624097413398,48149.4313918334
 Tampines Avenue 1 ,,
 Marsiling Cres ,,
 "Amber Gardens, Road",,
@@ -1467,7 +1467,7 @@ Choa Chu Kang Avenue 1 ,,
 Jalan Limau Nipis,,
 Woodlands Avenue 4 ,23885.7059398042,46342.4460515566
 Jalan Punai ,,
-Macpherson Road ,,
+Macpherson Road ,32116.8432088373,34541.602001356
 Lorong Pisang Hijau ,21296.195394312,36271.513916470096
 Cheviot Hill ,,
 Kings Drive ,,
@@ -1546,8 +1546,8 @@ Woodlands Drive16 ,,
 Pillai Road ,,
 Bedok North Avenue 3 ,,
 Berwick Drive ,31104.0982968733,38531.0554041546
-373),,
- Hougang Avenue 1 ,34459.411955152595,37447.695437517
+373),21360.5531789782,30281.175079688397
+ Hougang Avenue 1 ,38416.3686215216,34881.7532694228
 Lewis Road ,26806.0789329121,33665.871958252
 "Lorong 105, 106Changi",,
 ColcheStreeTerminal Gr,,
@@ -1567,7 +1567,7 @@ Choa Chu KangAvenue 1 ,,
 Kitchener Link ,,
 Teck Whye Lane ,,
 Jurong EaStreet Street 13 ,,
-Punggol Walk ,35356.3056146158,42591.3937915042
+Punggol Walk ,35555.2959962161,40540.947409641
 Woodlands Drive 70 ,23999.409830200497,46859.8870097622
 Gerald Cres,,
 Coronation Road WeStreet ,,
@@ -1585,7 +1585,7 @@ Jurong WeStreet Avenue 1 ,,
 Jurong WeStreet Street 42 ,,
 "How Sun Avenue, Cl ",,
 Charlton Road,,
-Ang Mo Kio Avenue 8 ,29740.261996272002,39646.7835893631
+Ang Mo Kio Avenue 8 ,33260.9515030831,39175.9496962372
 Jalan Hari Raya ,28483.738471036802,37408.4236064162
 WeStreet CoaStreet Road ,,
 Cashew Cres ,,
@@ -1636,9 +1636,9 @@ Jalan Dua ,,
 Joo Chiat Terminal ,,
 Bt Batok Street 31 ,,
 Sengkang EaStreet Way ,,
-Defu Lane 7 ,34834.6457534991,37486.5751771592
+Defu Lane 7 ,34734.5140270013,35794.6034229342
 Jalan Terminalang Bulan ,,
-Chai Chee Avenue ,38133.1369021945,34110.9774901271
+Chai Chee Avenue ,35844.0366096515,34378.1668148674
 Jalan MeLorong ,,
 Marine Parade Road ,,
 "Jalan Kelichap, JalanLokam ",,
@@ -1671,11 +1671,11 @@ Kaki Bt Road 3,,
 Redhill Cl ,,
 Bukit Batok WeStreet Avenue 6 ,,
 BoscombeRoad ,,
-Lorong 19 Geylang ,33101.712397445895,32810.7954251785
+Lorong 19 Geylang ,34444.6241987599,33113.2356609926
 Jurong WeStreet Street61 ,,
 Jalan Taman ,,
 Jalan Sendudok ,27209.8295305101,47087.846908846914
-Lorong 6 Realty Park,34052.267711221204,38900.8965979852
+Lorong 6 Realty Park,34392.3879546048,38712.8139199447
 Jalan Sultan ,,
 Mandai EStreetate,,
 Kallang Bahru ,,
@@ -1717,16 +1717,16 @@ Bishan Street 23,,
 "Lorong 16, 20, 22Geylang ",,
 Yishun Avenue 9 ,,
 Bedok Ria Cres,,
-Flower Road,33135.3595896689,38198.6034939103
+Flower Road,26382.725063784,26302.9671408795
 Enggor Street ,29205.7070055166,28493.0839834232
 Pasir Ris Rise ,41964.2990715345,39767.9263210464
 "Kings Drive, Road",,
 Jalan Tiga Ratus ,,
 Jalan Derum,,
-Tampines Avenue 1 ,39214.3496580664,36580.0337794945
+Tampines Avenue 1 ,42553.4450042378,36109.0576873813
 Choa Chu Kang Avenue 4 ,,
 Bt Batok Street 11 ,,
-Road ,,
+Road ,29838.2850734163,29801.5253638923
 WeStreet CoaStreet Lane ,,
 "Lorong 26, 28Geylang",,
 Woodlands Cres ,,
@@ -1735,17 +1735,17 @@ FLoronga Driveive,,
 Hougang Avenue 4 ,,
 Upp Changi Road EaStreet ,,
 Jellicoe Road ,31204.2813276043,32179.8708972298
-Lorong 23 Geylang,33302.953566852004,32867.24627419
+Lorong 23 Geylang,32568.7295863004,33020.3444902189
 Bukit Batok Street 32 ,,
 Lorong 7 Toa Payoh,30239.6090564914,35732.9267157279
 "Parry Terminal, View",,
 Belimbang Road ,,
 Rivervale Street ,,
-Kitchener Road ,,
+Kitchener Road ,30877.363010142002,32240.2123323325
 "EaStreetwood Drive, Green, Pl, Road, Terminal Walk, Way",,
 Marsiling Road ,,
 Lengkong Tiga,36632.7883023331,34155.0936817545
-Rivervale Walk ,,
+Rivervale Walk ,35339.7832000759,40524.6671087034
 Punggol Ctrl ,,
 Lengkong Satu ,36838.7523365784,34197.1301904898
 Jurong EaStreet Avenue 1 ,,
@@ -1762,17 +1762,17 @@ Joo Chiat Pl,,
 Tampines Avenue 5 ,39604.7798911212,37376.640104753904
 Mcnair Road ,,
 Upp Boon Keng Road ,,
-Lorong G Telok Kurau ,36067.9220446441,33199.615340963
+Lorong G Telok Kurau ,36572.136045305095,32805.7619805578
 LeiceStreeTerminal Road ,,
 Choa Chu Kang Ctrl ,,
 Tanah Merah Kechil Avenue ,,
-Lorong 1 Toa Payoh ,29676.183131075497,35704.775190504304
+Lorong 1 Toa Payoh ,30239.6090564914,35732.9267157279
 Island Gardens Walk ,27467.073613037403,38230.215951195
 Lorong Melayu ,36591.2900794214,33498.3047076985
 "EaStreetwood Drive, Green, Pl, Walk ",,
 Sembawang Road,,
 Woodgrove View ,,
-Bt Timah Road ,,
+Bt Timah Road ,21604.8359963214,36163.1791123655
 Jurong WeStreet Street 75 ,,
 Parry View ,,
 "Yunnan Drive 1, Road",,
@@ -1784,14 +1784,14 @@ Kim Keat Lane ,,
 Joo Koon Road ,10547.3644550191,34212.2555862404
 Bedok Rise ,40803.3319946462,34393.8132436909
 Bedok South Road ,39509.9236320416,33629.4463467319
-Park Road,29031.2547875112,29617.9408109114
+Park Road,29032.9361134712,29698.3572138026
 Vernon Park ,33428.1124059539,35674.2441174723
 Woodlands Drive 42 ,,
 BaleStreetier Road,,
 Hougang Street 11 ,,
 "Lorong 1, 6, 7 Realty Park",,
 "Ubi Avenue 1, Cres, Road 1",,
-Compassvale Walk ,,
+Compassvale Walk ,35504.6550564105,41177.064137786605
 Ubi Avenue 1 ,,
 "Lorong L, M Telok Kurau",,
 Compassvale Lk ,,
@@ -1804,7 +1804,7 @@ Lengkok Bahru,25516.213740482002,29930.520094839903
 Carmen Terminal ,,
 Hazel Park Terminal,,
 Kensington Park Drive ,,
-Kampong Eunos ,,
+Kampong Eunos ,35769.8708480773,33787.3495143708
 Choa Chu Kang Street 52 ,18039.1491968771,41642.636244623
 Redhill CI ,,
 Jalan Hitam Manis,,
@@ -1860,8 +1860,8 @@ Clover Cres,,
 Terminalang Bulan Avenue,,
 "Pasir Ris Drive 4, Lk",,
 Bedok South Avenue 1 ,,
-Rowell Road ,30435.6015759129,32229.9701006617
-Green Lane,,
+Rowell Road ,30357.475006524503,32043.672022940602
+Green Lane,34662.8873255095,32587.1833100785
 Angklong Lane ,27651.092662924,38222.2584680077
 Dorset Road ,,
 Leith Park ,,
@@ -1870,7 +1870,7 @@ Pasir Ris Street 52 ,,
 Serangoon Gdn Way,,
 Phoenix Road ,,
 "Loyang Rise, View",,
-Lorong 4 Toa Payoh ,29899.0661812508,35467.4295226168
+Lorong 4 Toa Payoh ,30473.124674255,35690.2979533561
 Buffalo Road ,,
 Rivervale Walk ,,
 "Nim Road, Rise ",,
@@ -1879,16 +1879,16 @@ Lorong 2 ToaPayoh ,,
 "Woodlands Lk, Terminal",,
 Mei Hwan Drive ,,
 Woodlands Drive 40 ,,
-Jalan Bangsawan ,,
+Jalan Bangsawan ,38092.414962261,33680.8275808822
 CrawfoRoad Lane ,,
 Dairy Farm Road ,,
 "Yunnan Cres, Drive 2",,
 "Daisy Avenue, Road ",,
-Eunos Avenue 3,35271.0559292799,33550.8153613955
+Eunos Avenue 3,35249.256140438796,34006.4172246642
 Lorong 24A Geylang ,,
 Everitt Road North ,,
 Sengkang EaStreet Way ,,
-Shaw Road,33692.921274848304,35483.3622562978
+Shaw Road,28826.221766177598,28977.1565478034
 Braddell Rise ,29099.4982548552,36116.5172016993
 Bt Batok Street 24 ,,
 Jalan Kenarah ,32314.9588154415,40742.050042485804
@@ -1896,7 +1896,7 @@ Bright Hill Drive ,,
 Derbyshire Road ,,
 Bedok South Avenue 2 ,,
 Pulasan Road ,,
-Punggol Central ,,
+Punggol Central ,37116.7000529161,41921.9722625688
 Onan Road,,
 Lorong 35 Geylang,,
 Bukit Batok WeStreet Avenue 4 ,,
@@ -1933,7 +1933,7 @@ Bedok North Avenue 2 ,,
 Everitt Road ,,
 Jalan Anak Bt ,,
 Woodlands Ring Road ,,
-Serangoon Central ,,
+Serangoon Central ,32482.3665839881,37009.8141771927
 Toh Guan Road EaStreet,,
 Tampines Street 41 ,,
 Jalan Sinar Bintang ,,
@@ -1975,7 +1975,7 @@ Jalan Minggu ,,
 Marine Parade Road,,
 Ang Mo Kio Avenue 10 ,,
 Rivervale Cres ,,
-Jalan Kechubong          ,,
+Jalan Kechubong          ,32675.7825715635,40926.486154921404
 Boon Lay Avenue ,,
 Kaki Bukit Indus Terminal,,
 Jurong EaStreet Street 32 ,,
@@ -2005,7 +2005,7 @@ Woodlands Street 82 ,23168.8293882245,47077.5412960183
 Lorong 27A Geylang ,,
 Bedok North Street 4 ,39784.4447099427,34887.5066380352
 Joo Hiang Road ,,
-Anchorvale Drive ,,
+Anchorvale Drive ,34479.3499300471,41201.0222760085
 Bt Batok Street 32 ,,
 Kwong Avenue ,32182.8601027643,34702.722837272995
 Lorong L Telok Kurau,,
@@ -2029,19 +2029,19 @@ Guan Soon Avenue ,41422.0294678928,35431.3386447281
 Yishun Ind Street 1 ,,
 Ah Hood Road,30577.1694759559,35642.10469459
 Jalan Daud ,36100.4684205679,34161.9211703055
-Bedok North Avenue 1 ,38488.6816495443,34466.5712716114
+Bedok North Avenue 1 ,40016.9903901685,34960.6840288695
 Wellington Circle,26670.694297654598,48135.707010245
 "Farrer Drive, Road ",,
-Recreation Lane ,,
+Recreation Lane ,32517.981437296603,37138.7043625247
 Branksome Road ,34277.363381274,31726.9415758513
 Dunbar Walk,37171.5611366201,33060.7649610341
-Hougang Avenue 2,34303.6149851605,38684.7539553717
+Hougang Avenue 2,34662.3762808722,38354.3851483036
 Bedok North Avenue 1 ,,
 "Meragi Cl, Road",,
 Kim Keat Road ,,
 Seletar Hills Drive,32797.258129995294,40566.5949856453
 "Eng Kong Cres, Gdn",,
-"Lorong J, K Telok Kurau",,
+"Lorong J, K Telok Kurau",36572.136045305095,32805.7619805578
 Bt Batok EaStreet Avenue 4 ,,
 Beach Road,,
 "Lorong 6, 7 RealtyPark",,
@@ -2069,7 +2069,7 @@ Toh Cl,,
 Corporation Rise,,
 North Bridge Road,29776.6172952661,30266.813405701894
 Corporation Drive ,15712.303487652,35285.4564068224
-Lorong Chuan ,31504.881845099902,37071.0015116371
+Lorong Chuan ,35473.678226782904,33133.4039449748
 Edgefield Walk ,,
 Meyer Road,,
 Jalan Tani,33735.5375970788,38654.164646739104
@@ -2114,9 +2114,9 @@ Woodlands Ring Road ,,
 "Toh Tuck Drive, Road",,
 Commonwealth Cres ,,
 Boon Lay Drive,,
-Choa Chu Kang Avenue 2,18274.3004964814,40109.0160782151
+Choa Chu Kang Avenue 2,31765.2712856904,34981.4189900439
 Claymore Road,,
-Aroozoo Avenue ,,
+Aroozoo Avenue ,33388.0089014638,37383.7245684881
 Pasir Ris Street 71 ,,
 "VeRoade Cres, Grove",,
 Jalan Krian ,,
@@ -2127,7 +2127,7 @@ Phillips Avenue ,,
 Woodlands Street 32 ,,
 "VeRoade Avenue, Cres",,
 Pasir Ris Gr,,
-Serangoon North Avenue 3 ,32320.292185512404,39537.6742880903
+Serangoon North Avenue 3 ,32122.361213609598,39227.7778674364
 Woodlands Avenue 1,21669.9377377601,45682.4107454438
 Kurau,36572.136045305095,32805.7619805578
 AlexanDrivea Road,,
@@ -2145,7 +2145,7 @@ Balam Road ,,
 Compassvale Lane ,,
 "Lorong K Telok,Kurau ",,
 Elite Park Avenue ,37988.9657739438,33034.155559312596
-Frankel Avenue ,37061.5022681616,33459.8954535984
+Frankel Avenue ,37599.5564799793,33196.1020452902
 Yishun Street 71,27343.1960479533,45474.324017498606
 Quemoy Road,,
 Tembeling Road,35533.021756731,32899.1832042616
@@ -2155,7 +2155,7 @@ Choa Chu Kang Street 52 ,,
 Bedok North Street 3 ,,
 Berwick Drive ,,
 Kaki Bukit Avenue 3,,
-Choa Chu Kang North 5,18494.7997310627,41597.4832232129
+Choa Chu Kang North 5,18006.5207644496,41974.0672460441
  Changi Road ,36684.266817784905,33390.350947240404
 Toh Tuck Road,21058.0928149549,35761.3548903242
 Yishun Ctrl ,,
@@ -2167,17 +2167,17 @@ Kew Hts ,,
 Jalan Pari Burong ,,
 GuillemaRoad Lane ,,
 Choa Chu KangAvenue 2 ,,
-Jalan Chempaka Kuning ,,
-Bedok North Street 2,39325.1157076955,34730.382205082096
+Jalan Chempaka Kuning ,40998.9543971634,34697.502518121204
+Bedok North Street 2,39784.4447099427,34887.5066380352
 Marsiling Drive ,21592.3873497108,46927.6887764186
 Lorong K Telok Kurau ,,
 Yishun Ring Road ,,
-"Lorong 6, 7 Realty Park ",,
+"Lorong 6, 7 Realty Park ",34027.0553282881,38963.7275747508
 Bendemeer Road ,,
-Kent Road ,29979.5180884879,33225.8314102367
+Kent Road ,23260.097680514704,29252.5672017448
 Ashwood Grove,21762.0683346381,45610.109885148704
 Kwong Avenue ,,
-Hougang Avenue 6,34758.7241764572,39640.9892681669
+Hougang Avenue 6,34750.9587133592,38307.6423918512
 Compassvale Bow,34886.3971348237,40409.321089386896
 "Lorong 7, 9, 11,13, 17, 21",,
 Jalan Taman ,,
@@ -2196,7 +2196,7 @@ Boon Lay Avenue ,14160.7972129667,36777.0499923937
 Glasgow Road,,
 Lorong Napiri,,
 Upp Serangoon Cres ,,
-Compassvale Bow ,,
+Compassvale Bow ,34886.3971348237,40409.321089386896
 Jalan Angin Laut ,41625.6441617785,35472.8279991206
 "Bright Hill Cres, Drive ",,
 Leedon Hts ,,
@@ -2204,7 +2204,7 @@ Pasir Ris Drive 4 ,,
 Peakville Walk,40359.7481553853,35014.024297731004
 Lakeside Drive,,
 Sennett Avenue,,
-Defu Lane 7,34834.6457534991,37486.5751771592
+Defu Lane 7,34734.5140270013,35794.6034229342
 Woodlands Drive 50 ,23698.0392043954,46704.4290109184
 Amber Road ,,
 Joo Chiat Road ,35242.6632892974,33135.3522950858
@@ -2276,7 +2276,7 @@ Miltonia Cl ,,
 Simet Street 4 ,,
 Surin Road ,,
 Choa Chu Kang Avenue 1 ,,
-"Lorong 20, 22 Geylang ",,
+"Lorong 20, 22 Geylang ",33401.4343564454,32690.976554567
 Woodlands Avenue 4 ,,
 Senja Road ,,
 Jalan Mutiara ,27561.2446957696,30916.063442248906
@@ -2286,11 +2286,11 @@ WeStreet CoaStreet Lane,,
 Ang Mo Kio Avenue 1 ,,
 Carmichael Road,,
 "Joo Chiat Avenue, Pl, Walk ",,
-Compassvale Link ,,
+Compassvale Link ,34905.2367753927,40445.9519783724
 Silat Avenue ,27752.350388684303,28860.3177417964
 Rivervale Drive ,35642.0742147295,40827.642210057005
-Woodlands Terminal,,
-Corporation Rise ,,
+Woodlands Terminal,19617.063258243703,40672.1820621882
+Corporation Rise ,15195.797870678798,35711.697084896296
 Jurong WeStreet Street 81 ,,
 Woodlands Drive 60,24175.399147222797,47659.59982899389
 Tampines Avenue 5 ,,
@@ -2320,7 +2320,7 @@ Serangoon Ctrl Drive ,,
 Tanah Merah ,,
 Jalan Keli ,,
 Jalan Redop ,,
-Cambridge Road ,,
+Cambridge Road ,29785.6531056417,33237.9279796612
 Lowland Road ,,
 Joo Chiat Road,,
 Jalan Sempadan ,38493.653165870295,32748.8088040873
@@ -2333,14 +2333,14 @@ Penjuru Pl ,,
 Dido Street ,,
 Serangoon North Avenue 1 ,,
 Pasir Ris Street 12 ,,
-Geylang Serai ,,
+Geylang Serai ,35401.4327871669,33166.1489091385
 Edgefield Plains,35957.3553702235,42151.1449694932
 1Hythe Road ,,
 Jalan Damai ,,
-Kranji Road,19397.278559953,46235.3506911155
+Kranji Road,19543.0546177728,44533.470894029415
 "Jansen Cl, Road ",,
 Woodlands Avenue 6 ,24354.257990174,46128.7578094732
-Bedok South Avenue 3 ,40169.33121044,33864.2794390228
+Bedok South Avenue 3 ,39173.8123528333,33678.8556520119
 Geylang EaStreet Avenue 1,,
  Pasir Ris Street 21 ,42328.7808345603,38775.8109468687
 Jalan Teck Whye ,19445.6533055501,40020.3937222585
@@ -2351,8 +2351,8 @@ Jalan Langgar Bedok,,
 "EaStreetwood Drive, Green, Pl, Road, Terminal, Way ",,
 Clementi Avenue 1 ,,
 Jurong WeStreet Avenue 5 ,,
-Hougang Avenue 7 ,35067.5747777391,38559.261109069
-Wellington Circle ,,
+Hougang Avenue 7 ,34698.6881755777,38264.8215791229
+Wellington Circle ,26670.694297654598,48135.707010245
 Bt Batok Street 34 ,,
 Chuan Cl ,,
 Tampines Street 32 ,,
@@ -2370,12 +2370,12 @@ Ang Mo Kio Avenue 6 ,,
 Chun Tin Road ,21555.1044278191,36016.9417704735
 Upp Serangoon Road,,
 Circuit Road ,,
-Chempaka Avenue ,,
+Chempaka Avenue ,32667.729925835498,34825.8161891662
 Woodlands Ind Park E1,,
 Cantonment Road ,,
 Jalan Kuang ,,
-Lorong 14 Geylang,33103.4472069321,32721.2617002316
-Cantonment Road ,,
+Lorong 14 Geylang,34309.2576637566,33151.4068271331
+Cantonment Road ,28899.228506118998,28663.715806789703
 Woodlands Drive 72,24692.1257810127,47138.0969679095
 Eunos Avenue 5B ,35050.2661825903,33747.4794668388
 Nemesu Avenue ,,
@@ -2385,7 +2385,7 @@ Nim Road ,31430.9774778327,40372.477809958196
 Yishun Ind Street1 ,,
 Chuan Drive ,,
 Tampines Street 71 ,,
-Hillside Drive ,32920.887225201404,37808.1163570452
+Hillside Drive ,32636.233304123398,36095.485341873
 Jalan Sotong ,,
 Jurong WeStreet Street 61 ,,
 Upp Serangoon Road ,,
@@ -2407,7 +2407,7 @@ Holland Park ,24677.7480952637,32383.595948182003
 Woodlands Avenue 5 ,,
 Pheng Geck Avenue ,31996.9185818918,34650.835098682
 Nallur Road ,39017.3135591019,32878.4765133858
-Rose Lane ,,
+Rose Lane ,34693.8336450094,32540.8801355548
 "Bedok Ria Cres, Pl",,
 Choa Chu Kang Street 52 ,,
 Rosewood Drive,22704.420691878506,45602.392699485594
@@ -2417,7 +2417,7 @@ Jalan Loyang Besar ,42207.0012645004,40157.040956188
 Clementi Avenue 3 ,20309.010795753402,32653.5214683842
 Tanjong Rhu Road,,
 Tampines Street 12 ,40331.4240118498,36651.1437459681
-Choa Chu Kang Avenue 5 ,17406.7080916036,39880.1017085332
+Choa Chu Kang Avenue 5 ,31765.2712856904,34981.4189900439
 Sin Ming Avenue ,27985.169933626406,38284.4509113878
 Tanjong Katong Road,,
 "Joo Chiat Avenue, Pl",,
@@ -2448,7 +2448,7 @@ Lorong Puntong ,27754.398108586694,38010.2997990511
 Admiralty Road WeStreet,,
 "Lorong 104, 105Changi",,
 Beach Road ,,
- Jalan Manis ,31393.446994101603,34147.7820870727
+ Jalan Manis ,28120.4750246229,31912.8065187242
 Lorong Buang Kok,32969.3717225064,40596.9260781072
 Vernon Park ,,
 Jurong WeStreet Street 74 ,,
@@ -2464,15 +2464,15 @@ Jalan Raya,,
 Jalan Angin Laut,41625.6441617785,35472.8279991206
 "Eunos Avenue 6, 7",,
 Joo Chiat Lane ,,
-Ang Mo Kio Avenue 1 ,29142.2442753967,38774.8915265948
+Ang Mo Kio Avenue 1 ,28346.4333322123,39555.534275097794
 "Bedok Lane, Walk ",,
 Trevose Cres ,,
 "Bedok Cl, Rise, Road, Terminal ",,
 Jalan Grisek ,37315.3155958066,34161.1456440277
 Jurong WeStreet Street 52 ,,
-Boon Keng Road ,30971.7380688172,33164.8201749213
+Boon Keng Road ,31197.8245915854,33577.7477830388
 EaStreet CoaStreet Road ,,
-Beach Road ,30619.2612842964,31161.918378666
+Beach Road ,24846.843152562204,27526.7294480428
 Lorong 40 Geylang,,
 Hougang Avenue 3 ,,
 Koh Sek Lim Road,,
@@ -2532,7 +2532,7 @@ Jalan Redop,,
 Telok Blangah Street 31 ,25061.907316648398,28480.5675365273
 Tanah Merah Kechil Avenue ,40613.4221292324,34465.3970554508
 Yio Chu KangRoad,,
-Hougang Avenue 6 ,34758.7241764572,39640.9892681669
+Hougang Avenue 6 ,34750.9587133592,38307.6423918512
 Elite Terminal ,,
 Aroozoo Avenue ,,
 Tampines Ctrl 7 ,,
@@ -2566,7 +2566,7 @@ Jalan Awang ,36088.645171036,33968.0428392794
 "Tai Hwan Pl, Terminal",,
 Jurong WeStreet Street 71 ,,
 Jansen Road ,,
-Tampines Street 21 ,41384.3755815933,37222.1098801475
+Tampines Street 21 ,39600.0301180445,39858.896715840296
 Bright Hill Cres,27976.5069340067,37463.4313990362
 Jurong EaStreet Street 32 ,,
 Tampines Ctrl 7 ,,
@@ -2582,7 +2582,7 @@ Neram Road,,
 How Sun Road ,,
 Choa Chu Kang Street 64 ,,
 Clementi Street 13 ,,
-Kallang Bahru,31895.4659908516,33695.0359777994
+Kallang Bahru,31854.937342262798,33937.7655027546
 Bowmont Gdn ,,
 Branksome Road,34277.363381274,31726.9415758513
 GilStreetead Road,,
@@ -2597,7 +2597,7 @@ Fidelio Street,,
 Geylang EaStreet Ctrl ,,
 Woodlands Ind Park E1 ,,
 Choa Chu Kang Avenue 3,,
-Cairnhill Road ,28518.581611832597,31722.089678596694
+Cairnhill Road ,30018.3434062935,32908.9868225791
 Macpherson Road ,32116.8432088373,34541.602001356
 Hougang Avenue 9 ,,
 Sembawang Hills Drive ,,
@@ -2667,7 +2667,7 @@ Boon Lay Drive ,,
 Jalan Tua Kong ,,
 Macpherson Road,32116.8432088373,34541.602001356
 Jurong WeStreet Street65 ,,
-Lorong 8 Toa Payoh ,30840.3814665647,35490.0111637451
+Lorong 8 Toa Payoh ,30592.3989633033,35561.5570799895
 Grace Walk ,,
 Lorong 108 Changi,,
 Tampines Avenue5 ,,
@@ -2687,7 +2687,7 @@ Yishun Avenue 3 ,,
 Hougang Street 21,33601.651802106804,37763.6914017145
 WeStreet CoaStreet Drive ,,
 "EaStreet CoaStreet Avenue, Road, Terminal",,
-Hougang Avenue 1,34459.411955152595,37447.695437517
+Hougang Avenue 1,38416.3686215216,34881.7532694228
 Woodlands Lk,,
 Bt Batok EaStreet Avenue 4 ,,
 Spottiswoode Park Road ,,
@@ -2711,7 +2711,7 @@ Wilton Cl ,,
 Carmichael Road,31463.267695809704,36230.4713780545
 Lorong How Sun ,33278.4004811402,36265.491858966605
 Clementi WeStreet Street 2 ,,
-"Defu Lane 4, 7",,
+"Defu Lane 4, 7",35076.4551620176,37819.1623550225
 Bt Batok Street 32 ,,
 Tai Hwan Grove ,,
 Langsat Road,,
@@ -2747,12 +2747,12 @@ Jalan Limau Bali ,,
 Jalan Ulu Siglap,,
 Yishun Avenue 3 ,28070.2442159969,45161.8693771288
 Paya Lebar,33932.3898180416,35255.4622272849
-Ava Road ,29441.8970720535,32741.745104191803
+Ava Road ,30126.832425775,33823.9943568986
 Hougang Street 52 ,,
 Mackenzie Road ,29864.597606753,31910.9533311538
-Ang Mo Kio Avenue 2 ,27804.0440792311,38956.3026567362
+Ang Mo Kio Avenue 2 ,28534.678670397003,39758.7219180018
 Lorong 20 Geylang ,,
-Corporation Walk ,,
+Corporation Walk ,15177.0483984333,35616.6021022294
 Eunos Avenue 3 ,,
 Woodlands Street 81 ,,
 Towner Road ,,
@@ -2779,7 +2779,7 @@ Lorong K TelokKurau,,
 Pasir Ris Rise ,,
 Lorong 2 Toa Payoh ,,
 "WeStreetwood Avenue, Walk",,
-Tampines Street 21,41384.3755815933,37222.1098801475
+Tampines Street 21,39600.0301180445,39858.896715840296
 "Happy Avenue North, EaStreet ",,
 Loyang Rise,,
 Lorong 26 Geylang,,
@@ -2794,7 +2794,7 @@ Bedok Rise,,
 Saraca Terminal,,
 Aljunied Road ,33055.6188892461,35164.8401867151
 Harlyn Road ,,
-Woodlands Street 4 ,,
+Woodlands Street 4 ,22038.276671024,46136.1195884738
 Admiralty Streetreet,,
 Merpati Road ,,
 Ang Mo Kio Avenue10 ,,
@@ -2808,14 +2808,14 @@ Edgedale Plains,,
 Pasir Ris Gr ,,
 Yishun Street 22 ,,
 "EaStreet CoaStreet Drive, Terminal",,
-Lorong H Telok Kurau,36094.267146332204,33099.212594939396
+Lorong H Telok Kurau,36572.136045305095,32805.7619805578
 CompassvaleDrive ,,
  Ang Mo Kio Avenue 10 ,30456.0196312964,38119.944450153
 Bloxhome Drive ,31417.023876803,38127.825627753504
 Sirat Road,,
 "VeRoade Avenue, Cres, Grove, Pl, Walk",,
 Jalan Membina ,27180.5113863898,29564.413031891
-Admiralty Drive ,26410.3835538216,48078.5162603706
+Admiralty Drive ,21558.627893535402,47152.060769250595
 Bt Batok EaStreet Avenue 5 ,,
 Bedok Reservoir Road ,36001.992201439105,34733.2826043535
 Woodlands Drive14 ,,
@@ -2836,7 +2836,7 @@ Sembawang Cl ,,
 Frankel Terminal ,,
  Bt MugliStreeton ,,
 Ah Hood Road ,30577.1694759559,35642.10469459
-"Hougang Avenue 3,Hougang Avenue 3",,
+"Hougang Avenue 3,Hougang Avenue 3",34641.983650594,38464.2702785339
 Fort Road ,,
 Bt Batok EaStreet Avenue 5 ,,
 Lorong 35 Geylang ,,
@@ -2857,9 +2857,9 @@ Charlton Lane ,,
 Arthur Road,,
 Ah Soo Gdn ,,
 Commonwealth Cres,24424.8109046752,32057.5966272429
-Defu Lane 1 ,34977.0010146033,38094.2417258825
+Defu Lane 1 ,34789.7935050437,35780.2154158019
 "Thomson Terminal, Walk",,
-Lorong 20 Geylang ,33362.5959023349,32743.0199916661
+Lorong 20 Geylang ,32560.2720457548,32894.9443850182
 "Aroozoo Avenue,Lane ",,
 Sungei Kadut Loop ,,
 Tampines Street 34 ,,
@@ -2873,10 +2873,10 @@ Lorong 105 Changi ,,
 GlouceStreeTerminal Road ,,
 Hai Sing Cres ,,
 Jalan Kayu ,,
-Sembawang Road ,,
+Sembawang Road ,27383.2712518787,39423.6564278975
 Pheng Geck Avenue ,,
 Carlisle Road ,29805.6127826804,32842.0770231336
-Brockhampton Drive ,,
+Brockhampton Drive ,31282.236792080097,37930.494294876204
 Woodlands Street 41,,
 Pasir Panjang Road ,,
 "Lorong 25A, 27 Geylang",,
@@ -2914,7 +2914,7 @@ Jalan Sotong ,,
 Bedok North Avenue3 ,,
 Jalan Gembira,33140.032724211,34986.2919840813
 Jalan Rajah ,30287.443700186002,34533.052990963704
-Golden Walk ,31097.284398647003,37564.8766349554
+Golden Walk ,26748.4993302515,27426.923435317403
 Jalan Pari Kikis ,40192.451984894506,34832.5597748663
 Pasir Ris Drive 1,40998.8585081911,39258.6111965533
 Jalan Kelichap ,33402.313429497204,36500.6488489509
@@ -2933,8 +2933,8 @@ Tampines Avenue 9 ,41625.932191911204,37995.9368538111
 Jurong WeStreet Street 64 ,,
 Fernvale Road,32619.2758175852,41122.220276564396
 Nemesu Avenue ,,
-Bukit Batok Street 21 ,18494.4904830735,36444.3241871633
-Corporation Drive ,,
+Bukit Batok Street 21 ,17911.4271135731,35623.199311960496
+Corporation Drive ,15712.303487652,35285.4564068224
 Jalan Seaview ,34766.2405037824,31423.0956948735
 Simei Street 1 ,,
 Cairnhill Circle ,28566.970643917997,32085.9371457566
@@ -2957,13 +2957,13 @@ Tampines Street 32 ,,
 Teban Gardens Road,17449.6834526574,34002.9779342096
 Dorset Road,,
 Street. Patrick's Road,,
-Defu Lane 9,34885.7813024269,37366.2922983561
+Defu Lane 9,34726.7247732673,35866.8838523384
 Tah Ching Road ,,
 Hougang Avenue 6 ,,
 Merryn Terminal ,,
 Kew Cres ,,
 Seletar Hills Drive,,
-Admiralty Drive,26410.3835538216,48078.5162603706
+Admiralty Drive,21558.627893535402,47152.060769250595
 Tampines Street 71 ,,
 Aljunied Cres ,,
 "Lorong 6, 8 Geylang",,
@@ -3000,7 +3000,7 @@ Lakepoint Drive ,,
 Hazel Park Terminal ,,
 Lorong 25 Geylang ,,
 Punggol Pl ,,
-Crescent Road ,34727.698433768,31375.5746880248
+Crescent Road ,27352.6761923293,30162.821512436494
 Peakville Avenue,,
 Ang Mo Kio Avenue 3 ,,
 Jalan Chorak ,,
@@ -3019,9 +3019,9 @@ Jalan Limau Bali ,40613.6806480819,33808.762720523395
 Serangoon North Avenue 1 ,32122.361213609598,39227.7778674364
 How Sun Drive ,33044.5658690957,36225.6479327045
 Rochdale Road ,,
-Haig Road ,35165.4262051471,32621.4964887481
-Bedok Reservoir Road ,,
-Compassvale Road ,,
+Haig Road ,35716.5426864093,32674.7140209358
+Bedok Reservoir Road ,36001.992201439105,34733.2826043535
+Compassvale Road ,34964.7389095752,40995.7132712007
 Cantonment Cl ,,
 Koon Seng Road,,
 Jalan Daud,,
@@ -3036,12 +3036,12 @@ Bedok Reservoir Road ,,
 Compassvale Lane,35209.8504945813,40664.469265380896
 Lorong 8 Geylang,,
 Jurong WeStreet Street 65 ,,
-Green Lane ,34753.0676653925,32602.4042013194
-Lorong 20 Geylang,33362.5959023349,32743.0199916661
+Green Lane ,33079.8000722416,35131.3485416602
+Lorong 20 Geylang,32560.2720457548,32894.9443850182
 New Upp Changi Road ,,
 Bedok North Road,40119.668804280496,34415.2905271649
-Lorong 5 Toa Payoh ,30279.1508780075,35031.93307673
-Champions Way ,,
+Lorong 5 Toa Payoh ,30502.6631087605,35647.699216823996
+Champions Way ,23097.213401598907,45797.6736488771
 Ubi Avenue 1,35638.308453803904,34766.3438084107
 Grange Road ,,
 Lorong Liew Lian ,,
@@ -3056,7 +3056,7 @@ Choa Chu Kang Avenue 2 ,,
 Chuan Cl,,
 Lorong 24 Geylang,,
 Lorong 3 Geylang ,,
-Woodlands Centre Road ,21300.404096911698,46336.3909716811
+Woodlands Centre Road ,24047.196196462002,46433.0759012662
 Yishun Street 51 ,,
 Jalan MeLorong ,,
 WeStreetwood Avenue ,,
@@ -3078,7 +3078,7 @@ Toh Tuck Road,,
 McNair Road,,
 Jurong EaStreet Street 24 ,,
 "Brighton Avenue, Cres ",,
-Corporation Road ,,
+Corporation Road ,43170.2095337771,37432.3693044987
 Amber Gardens ,35217.01758991,31525.1992594395
 Faber Avenue ,19608.578325172,33345.2399680614
 Fajar Road ,,
@@ -3107,7 +3107,7 @@ Windsor Park Road,,
 EaStreet CoaStreet Road ,,
 Ah Soo Gdn,,
 ColdStreetream Avenue ,,
-Elias Road ,40262.5169492308,39982.4870680273
+Elias Road ,29910.1206542635,31553.3446705304
 Woodlands Street13 ,,
 "Tai Keng Avenue, Gardens, Terminal",,
 Compassvale Lk ,,
@@ -3132,7 +3132,7 @@ Fernvale Lk ,,
 EaStreet CoaStreet Road,,
 Hougang Avenue 4 ,,
 Bt Merah Central ,,
-Lorong 16 Geylang,33217.022518934704,32731.006326248906
+Lorong 16 Geylang,34314.7456124201,33171.5262888577
 Sin Ming Avenue ,,
 Brighton Cres ,,
 "Marsiling Ind EStreet Road 1, 9",,
@@ -3141,7 +3141,7 @@ Jalan Ikan Merah ,,
 Choa Chu Kang Ctrl ,,
 Toa Payoh EaStreet ,,
 Kaki Bt Road ,,
-Veerasamy Road ,,
+Veerasamy Road ,30357.475006524503,32043.672022940602
 Tampines Street 82 ,39295.7205315568,36884.4137390442
 Kitchener Lk ,,
 Tanjong Katong Road,,
@@ -3171,7 +3171,7 @@ Boon Keng Road ,,
 Ang Mo Kio Ind Park 2,,
 Lorong Ah Soo ,,
 Chai Chee Street,37883.7907354627,34558.852330636204
-Bencoolen Street ,29827.4022501381,31223.948676457596
+Bencoolen Street ,29602.1121385572,29950.1824797411
 Jalan Lembah Thomson,,
 Loyang Cres,43162.7857659459,40343.219172693796
 ButTerminalworth Lane,,
@@ -3241,7 +3241,7 @@ Jurong WeStreet Street 93,,
 "Lorong 8, 10, 12,14 Geylang",,
 "Yunnan Cres, Drive 3",,
 Mariam Way ,43035.354315822005,37941.3570202123
-Geylang Bahru ,,
+Geylang Bahru ,31877.4520003423,34062.3770967107
 Kew Hts,,
 Shunfu Road ,,
 Clementi WeStreet Street 2 ,,
@@ -3257,7 +3257,7 @@ Toh Tuck Road ,,
 "EaStreet CoaStreet Avenue, Terminal ",,
 Serangoon Avenue 2 ,,
 Tampines Ctrl 7 ,,
-Choa Chu Kang Avenue 1 ,18760.7054814184,40361.808103554
+Choa Chu Kang Avenue 1 ,31765.2712856904,34981.4189900439
 "Loyang Rise, View ",,
 ColdStreetream Avenue ,,
 Hythe Road ,,
@@ -3269,7 +3269,7 @@ Jalan Bahagia ,,
 Jalan Tiga Ratus,,
 Geylang Bahru ,,
 Bt Batok EaStreetAvenue 4 ,,
-Bedok North Street 1 ,38562.9637007127,34257.7579001822
+Bedok North Street 1 ,39784.4447099427,34887.5066380352
 Yuan Ching Road ,15842.687549319098,35321.1514702886
 Woodlands Drive 73 ,24900.7338749757,46939.3395892475
 Pasir Ris Drive 1 ,,
@@ -3287,10 +3287,10 @@ Cashew Road ,21096.071052968502,39556.792848128796
 Joo Chiat Pl ,,
 Leith Park,,
 Serangoon Ctrl Drive ,,
-Lorong 2 Toa Payoh ,29632.99192903,35330.1618858241
+Lorong 2 Toa Payoh ,30247.708799202002,35641.9446677603
 Elite Terminal,,
 Tampines Street 42 ,,
-Lorong J Telok Kurau ,36241.8244447252,32825.327296037205
+Lorong J Telok Kurau ,36572.136045305095,32805.7619805578
 Yishun Avenue 9 ,,
 Jalan Hikayat,,
 Pesari Walk ,41477.5844753915,34036.851409878596
@@ -3322,8 +3322,8 @@ Tuas View Square ,5123.58972820453,31183.100519031294
 Clementi Avenue 6 ,,
 Lorong N TelokKurau ,,
 Bright Hill Drive ,27888.1927363919,37772.0512069426
-Tampines Street 33 ,,
-Edgedale Plains ,,
+Tampines Street 33 ,41812.755631024906,37267.3818244655
+Edgedale Plains ,36268.2949769376,41789.9222813454
 Hougang Street 51 ,34505.8724929234,40099.4990371671
 "Pasir Ris Drive 4, Lk",,
 Yishun Avenue 1 ,,
@@ -3340,20 +3340,20 @@ Cedarwood Gr,,
 Tampines Street 34 ,,
 Jalan Sayang ,37161.433075783796,33645.2826466169
 Jalan Arif ,33625.4655620474,38800.9951503072
-Ampat ,,
+Ampat ,33442.4117581621,34998.1925985795
 Choa Chu Kang Cres ,,
 Hougang Avenue 8 ,,
 Chia Ping Road ,,
 "Tembeling Lane, Road",,
 Sector C Sin Ming Ind EStreet ,,
-Punggol Walk ,,
+Punggol Walk ,35555.2959962161,40540.947409641
 Holland Cl ,,
 Tampines Street 81 ,,
 Woodlands Drive 14,23402.643993131802,46071.151359111114
 Anchorvale Link ,,
 Pasir Ris Drive 4 ,,
 Woodlands Drive 52,24075.746229959703,46127.7024254166
-Bedok Road ,40771.428450160696,34707.5907160211
+Bedok Road ,36001.992201439105,34733.2826043535
 Race Course Road ,,
 Kent Road ,,
 Jalan Limau Purut,40578.4185378551,33914.6384930965
@@ -3366,15 +3366,15 @@ Tanjong Rhu Road,,
 The Inglewood,27697.1174325328,38057.9754450284
 Defu Avenue 2 ,35559.2559565259,38222.9146173596
 Jalan Chengam ,27801.570700674303,39212.8331110105
-Defu Lane 3,35340.721235158904,37841.0634205379
-Corporation Road ,15407.2351433476,34086.783291898704
+Defu Lane 3,34779.2844610969,35784.6502505075
+Corporation Road ,43170.2095337771,37432.3693044987
 Evelyn Road ,,
 Holland Drive ,,
 Jalan Kesoma ,,
 Lorong K Telok Kurau ,36572.136045305095,32805.7619805578
 Tampines Street 72 ,,
 "Daisy Avenue, Road",,
-Tampines Avenue 3 ,39386.5054441467,36763.7623475417
+Tampines Avenue 3 ,39287.5814101994,34825.2002054304
 Jurong WeStreet Avenue 3 ,,
 Tampines Street 21 ,,
 Jalan Gembira ,33140.032724211,34986.2919840813
@@ -3418,7 +3418,7 @@ Joo Chiat Terminal ,,
 Lakepoint Drive ,15027.8332014997,35848.7503940966
 Hougang Street 51 ,,
 Hougang Street 11,,
-Sophia Road ,29808.6197555223,31499.7629539631
+Sophia Road ,29728.974701927997,31611.374448912204
 Brighton Cres ,,
 Woodlands Drive 53 ,,
 Bishan Street 15,,
@@ -3429,7 +3429,7 @@ Jalan Ketumbit ,32697.4900733214,40638.5209164247
 Hougang Avenue 2 ,,
 Lorong 27 Geylang ,,
 Mattar Road,,
-Ang Mo Kio Avenue 2,27804.0440792311,38956.3026567362
+Ang Mo Kio Avenue 2,28534.678670397003,39758.7219180018
 Carpmael Road ,,
 Hougang Street 11 ,,
 Maria Avenue,,
@@ -3443,8 +3443,8 @@ Towner Road ,30900.8241480729,33399.722066341004
 Henderson Road,25641.353450218197,28158.038046436406
 Hougang Avenue 10 ,35086.2683147509,39648.5111042652
 Bedok Streeth Avenue 1,,
-Lorong 1 Toa Payoh,29676.183131075497,35704.775190504304
-Bedok North Street 3 ,38889.5936853616,34871.7969491277
+Lorong 1 Toa Payoh,30239.6090564914,35732.9267157279
+Bedok North Street 3 ,39784.4447099427,34887.5066380352
 Hythe Road ,31765.968902179,38731.3095951471
 Kitchener Lk,,
 Jalan Satu,34049.1903047804,32494.521419283
@@ -3473,7 +3473,7 @@ Woodlands InduStreetrial Park E5,,
 Geylang Road,,
 Bedok North Avenue 4 ,,
 Spottiswoode Park Road,,
-Casuarina Road,27408.3311144421,39448.8277069088
+Casuarina Road,32584.7390795881,31098.095550343398
 Woodleigh Cl,32047.6105837859,35344.5674786549
 Geylang EaStreet Avenue 2 ,,
 Sea Breeze Walk ,,
@@ -3483,7 +3483,7 @@ Cambridge Road ,,
 Bt Panjang Ring Road ,,
 Upp Boon Keng Road ,,
 Ubi Avenue 1 ,,
-Pasir Panjang Hill ,22706.763343013798,29201.7925985232
+Pasir Panjang Hill ,22474.6525229104,29387.3232617844
 Ang? Mo Kio Street 52 ,,
 Kampong Eunos,,
 Hindoo Road ,,
@@ -3518,14 +3518,14 @@ Lorong 24 Geylang ,,
 Yishun Avenue 9 ,28978.816201884303,46249.906715825186
 "Parry View, Walk",,
 Jalan Raya ,,
-Lengkong Tiga ,,
+Lengkong Tiga ,36632.7883023331,34155.0936817545
 Wimborne Road,,
 Tampines Street 91 ,,
 Lorong 30 Geylang ,,
 Tamarind Road ,31036.8836080283,41329.6800940298
 Tampines Street 41,40419.1449872525,37684.0250091925
 Jalan Korban ,,
-Lorong 14 Geylang ,33103.4472069321,32721.2617002316
+Lorong 14 Geylang ,34309.2576637566,33151.4068271331
 "Joo Hiang Road, Serangoon Central ",,
 Glasgow Road ,,
 Bedok InduStreetrial Park E ,,
@@ -3536,8 +3536,8 @@ Anchorvale Link ,34468.3032964421,41114.2921835892
 May Road ,,
 Defu Avenue 2,35559.2559565259,38222.9146173596
 Bukit Timah Road ,26191.6855972186,33487.0047916062
-Phoenix Road ,19455.3688743031,39834.8326699417
-Anchorvale Road ,,
+Phoenix Road ,26012.5496206088,31237.964508460802
+Anchorvale Road ,33948.2371657407,41361.3736089766
 Woodlands Avenue 5 ,22619.7402867805,46109.911237536
 Angklong Lane ,,
 Cantonment Road,28899.228506118998,28663.715806789703
@@ -3575,13 +3575,13 @@ Lorong Pisang Emas,,
 Hougang Avenue 7 ,,
 Siglap Road ,,
 Choa Chu Kang Street 51,,
-Woodlands Circle ,,
+Woodlands Circle ,21790.1187345283,46186.983330907315
 Jalan Bunga Rampai ,,
 Morning GLorongy),,
 Jalan Tenaga,36148.5545004038,34875.0706737097
 Jalan Besar,,
 Pasir Ris Drive 3,,
-Marine Parade Road,36015.2805121867,31490.3124116734
+Marine Parade Road,35605.521235534,32669.036836836494
 "Mt Sinai Drive, Rise",,
 CheStreetnut Avenue ,,
 Bedok North Avenue1 ,,
@@ -3590,19 +3590,19 @@ Compassvale Drive ,34670.7027610485,41170.8319902066
 "Tanah Merah Kechil Avenue, Road",,
 Jalan Tari Dulang ,,
 Yishun Street 71 ,,
-Kampong Ampat ,,
+Kampong Ampat ,33442.4117581621,34998.1925985795
 "EaStreetwood  Drive, Green,  Pl, Walk ",,
 Jurong WeStreet Street 62 ,,
-Hillview Avenue ,20463.072320631698,38527.4309341758
-Holland Avenue ,23797.752112803,32406.265336195
+Hillview Avenue ,20302.4551136959,37808.9794788677
+Holland Avenue ,23589.689145227003,32867.3744591009
 "Corporation Rise, Walk ",,
 Tampines Street 43 ,41105.8416954828,37904.0330852028
 Tampines Street 22 ,41016.6755146617,36809.0213976968
 Jalan Tarum ,27753.6395323789,39424.456562047795
-Cable Road ,27135.4099718919,30939.4216084983
+Cable Road ,26476.3092503129,28179.940564815
 Lorong 5 Toa Payoh ,,
 "Jalan Kelichap, Jalan Lokam ",,
 Choa Chu Kang Cres ,,
 Lorong L Telok Kurau ,,
 Jurong WeStreet Street 73 ,,
-Lorong 2 Toa Payoh,29632.99192903,35330.1618858241
+Lorong 2 Toa Payoh,30247.708799202002,35641.9446677603
