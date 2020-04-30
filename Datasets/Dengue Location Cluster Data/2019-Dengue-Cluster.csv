@@ -715,7 +715,7 @@ date,locality,cases with onset in last 2 weeks
 190527,"Geylang Rd / Guillemard Rd / Lor 6,8,12,14,16,20,22,23 Geylang / Sims Ave / Westerhout Rd",16
 190527,Bedok Reservoir Rd / Foo Kim Lin Rd / Jln Eunos / Jln Punai / Jln Rimau / Jln Singa / Teo Kim Eng Rd,6
 190527,Jln Lembah Thomson/ Jln Pelatina / Taman Permata / Thomson Ridge / Upp Thomson Rd,20
-190527,Defu Ave 2 / Ln 3 /Ln  4 / Ln 6,2
+190527,Defu Ave 2 / Ln 3 /Ln 4 / Ln 6,2
 190527,Woodlands Ave 4 / Dr 42 / Dr 50 / Ring Rd,8
 190527,Woodlands Ave 4 / St 82 / St 83,2
 190527,"Geylang Rd / Guillemard Rd / Jln Molek / Jln Suka / Lor 22,27 Gaylang",8
@@ -780,7 +780,7 @@ date,locality,cases with onset in last 2 weeks
 190527,"Tanah Merah Kechil Ave (Casa Merah, D' Manor)",2
 190527,Upp Boon Keng Rd,2
 190603,Woodlands Ave 6 / Circle / Cres / Dr 60 / Dr 72,38
-190603,Woodlands Ave 6 /  Dr 62 / Dr 73 / Dr 75 / Ring Rd,42
+190603,Woodlands Ave 6 / Dr 62 / Dr 73 / Dr 75 / Ring Rd,42
 190603,Chai Chee Ave / Chai Chee Dr / Chai Chee Ln / Chai Chee Rd / Chai Chee St,32
 190603,"Geylang Rd / Guillemard Rd / Lor 6, 8, 10, 12, 14 Geylang / Lor 14 Geylang / Lor 16, 18, 19, 20 Geylang / Lor 20 Geylang / Lor 22, 23 Geylang / Sims Ave / Westerhout Rd",24
 190603,Jln Lembah Thomson / Jln Pelatina / Taman Permata / Thomson Ridge / Upp Thomson Rd,25
@@ -1709,7 +1709,7 @@ Siglap Hill / Siglap Rd / Siglap Rd (Flamingo Valley) / Taman Siglap",15
 190712,Siglap Ave South / Siglap Rise / Siglap Walk,2
 190712,"Teck Whye Ln (Blk 18, 20, 108, 109)",3
 190712,"Amber Rd (The Sea View, The Shore Residences)",2
-190712,"Ang Mo Kio Ave 1 (Blk 218, 219, 220)          ",2
+190712,"Ang Mo Kio Ave 1 (Blk 218, 219, 220)     ",2
 190712,"Ang Mo Kio Ave 1 (Blk 308A, 310C)",2
 190712,"Ang Mo Kio Ave 10 (Blk 440, 444)",2
 190712,Ang Mo Kio Ave 5 (Blk 523) / Ang Mo Kio St 52 (Blk 596A),1
@@ -1992,7 +1992,7 @@ Kio Ctrl (Grandeur 8)",3
 190716,Wilkinson Rd,2
 190716,Woodlands Cres (Northoaks),2
 190716,Yishun Ave 9 (Nine Residences) / Yishun Ring Rd (Blk 311),2
-190726,"Geylang Rd / Guillemard Rd / Lor 4, 6, 7,  8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23 Geylang / Sims Ave / Westerhout Rd",3
+190726,"Geylang Rd / Guillemard Rd / Lor 4, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23 Geylang / Sims Ave / Westerhout Rd",3
 190726,"Chai Chee Ave (Blk 29, 29A, 30, 32) /Chai Chee Dr (Blk 55, 56, 58) / Chai Chee Ln / Chai Chee Rd / Chai Chee Rd (Blk 2,19, 20, 21, 22, 24, 25, 27, 59, 61, 62, 63, 803, 804, 805, 807A, 808C) / Chai Chee St",12
 190726,"Pasir Ris Dr 3 (Eastvale Condo) / Pasir Ris Dr 4 (Blk 478, 480, 481, 485) / Pasir Ris Dr 6 (Blk 405, 406, 408-421, 423,427, 428, 454, 467, 468, 469, 470, 472,473, 474, 476, 476A) / Pasir Ris St 41(Blk 466)",26
 190726,Changi Rd / Joo Chiat Ave / Joo Chiat Pl / Joo Chiat Walk / Lor 100 Changi / Lor G Telok Kurau / Lor G Telok Kurau (East Bay Gdns) / Lor H Telok Kurau / Lor J Telok Kurau / Lor K Telok Kurau / Telok Kurau Rd (Parc Elegance),16
@@ -2177,7 +2177,7 @@ Kio Ctrl (Grandeur 8)",3
 190802,"Desker Rd / Jln Berseh (Blk 25, 26) / Kelantan Ln / Kelantan Rd (Blk 30) / Klang Ln (Blk 671B, 672A) / Norris Rd /Rowell Rd / Rowell Rd (Blk 639, 640,641, 642) / Syed Alwi Rd / Veerasamy Rd (Blk 632, 633, 634, 635, 636, 637)",13
 190802,"Bishan St 22 (Blk 240, 243, 246, 247, 248,249, 250, 252, 253, 254, 255, 256)",6
 190802,"Boon Lay Ave (Blk 216A) / Boon Lay Dr (Blk 196A, 197A, 198, 199, 200, 204) / Boon Lay Pl (Blk 207, 208, 209, 210, 211,212, 213, 214, 215, 221)",8
-190802,East Coast Rd / Jln Baiduri / Joo Chiat Pl /Lor Bandang / Lor J Telok Kurau / Lor K Telok Kurau / Lor L Telok Kurau / Lor M  Telok Kurau / Lor N Telok Kurau / Telok Kurau Rd,10
+190802,East Coast Rd / Jln Baiduri / Joo Chiat Pl /Lor Bandang / Lor J Telok Kurau / Lor K Telok Kurau / Lor L Telok Kurau / Lor M Telok Kurau / Lor N Telok Kurau / Telok Kurau Rd,10
 190802,"Aroozoo Ave / Hougang St 11 (Blk 154, 155, 156, 158, 161) / Hougang St 11 (The Minton) / Kg Sireh / Lor Ah Soo (Blk 140, 144) / Surin Ave / Surin Ln / Surin Rd",6
 190802,"Aljunied Ave 2 (Blk 115, 119) / Aljunied Cres (Blk 98, 101, 103, 105, 108, 109, 110, 111, 112) / Geylang East Ave 1 (Blk 124, 125, 127) / Geylang East Ave 2 / Geylang East Ctrl (Blk 120, 123)",1
 190802,Begonia Dr / Dedap Rd / Kasai Rd / Upp Neram Rd / Yio Chu Kang Rd,20
@@ -2251,7 +2251,7 @@ Kio Ctrl (Grandeur 8)",3
 190802,Alnwick Rd / Hythe Rd / Jln Chulek / Worthing Rd,3
 190802,"Bedok Reservoir Rd (Blk 103, 108, 115) / Jln Eunos",4
 190802,"Bedok South Ave 2 (Blk 35) / Bedok South Rd (Blk 41, 44)",4
-190802,Bournemouth Rd / Mountbatten Rd   ,4
+190802,Bournemouth Rd / Mountbatten Rd  ,4
 190802,"Cassia Cres (Blk 28) / Guillemard Cres / Pine Cl (Blk 10, 11)",4
 190802,"Choa Chu Kang Nth 5 (Blk 753, 758) / Choa Chu Kang St 52 (Blk 572)",2
 190802,Dorset Rd (Blk 50) / Owen Rd / Race Course Rd (Blk 681) / Starlight Rd,4
@@ -2366,7 +2366,7 @@ Kio Ctrl (Grandeur 8)",3
 190808,"Choa Chu Kang Ave 4 (Blk 307, 432, 435) / Choa Chu Kang Loop (Northvale, The Warren)",17
 190808,"Bishan St 22 (Blk 240, 243, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256)",13
 190808,Bedok Rd / Chempaka Kuning Lk (The Springfield) / Jln Chempaka Kuning / Jln Chempaka Puteh / Upp Changi Rd (Palm Woods) / Upp Changi Rd East (Summer Gdns),16
-190808,East Coast Rd / Jln Baiduri / Joo Chiat Pl /Lor Bandang / Lor J Telok Kurau / Lor K Telok Kurau / Lor L Telok Kurau / Lor M  Telok Kurau / Lor N Telok Kurau / Telok Kurau Rd,10
+190808,East Coast Rd / Jln Baiduri / Joo Chiat Pl /Lor Bandang / Lor J Telok Kurau / Lor K Telok Kurau / Lor L Telok Kurau / Lor M Telok Kurau / Lor N Telok Kurau / Telok Kurau Rd,10
 190808,"Aroozoo Ave / Hougang St 11 (Blk 154, 155, 156, 158, 161) / Hougang St 11 (The Minton) / Kg Sireh / Lor Ah Soo (Blk 140, 144) / Surin Ave / Surin Ln / Surin Rd",11
 190808,Begonia Dr / Dedap Rd / Kasai Rd / Upp Neram Rd / Yio Chu Kang Rd,15
 190808,GeylangRd / GeylangEastAve2 (Simsville) / GuillemardRd (Grandlink Sq) / Lor35Geylang / Lor37Geylang /Lor37Geylang (Palm Lodge) /Lor39Geylang / Lor39Geylang (Sims Residences) / Lor42Geylang (Aston Mans) / PayaLebarRd (Paya Lebar Residences),7
@@ -2676,7 +2676,7 @@ Kio Ctrl (Grandeur 8)",3
 190830,"Ang Mo Kio Ave 3 (Blk 427) / Ang Mo Kio Ave 10 (Blk 412-421, 432, 435-
 438, 440, 441, 443-445, 447, 449, 451, 458, 465, 468, 470) / Ang Mo Kio St
 44 (Blk 455A)",17
-190830,"Bishan St 22 (Blk 240, 241, 243, 245-256)                                   ",4
+190830,"Bishan St 22 (Blk 240, 241, 243, 245-256)                  ",4
 190830,"Aroozoo Ave / Hougang St 11 (Blk 154, 155, 156, 158, 161) / Hougang St 11 (The Minton, Central View) / Jln Geneng / Kg Sireh / Lor Ah Soo (Blk 140,144) / Surin Ave / Surin Ln / Surin Rd / Taman Sireh / Upp S'goon Rd",7
 190830,"Commonwealth Ave (Blk 7, 7A) / Commonwealth Cres (Blk 113) / Holland Ave (Blk 2, 8-10, 12) / Holland Cl (Blk 1, 3, 3A, 4, 5, 6, 30A) / Holland Dr (Blk 11, 13, 40, 41, 42)",20
 190830,Begonia Dr / Dedap Rd / Kasai Rd / Upp Neram Rd / Yio Chu Kang Rd,4
@@ -3341,7 +3341,7 @@ Gdns)",6
 191011,Upp S'goon Cres (Blk 471A) / Upp S'goon Cres (Riversails),1
 191011,Woodlands Dr 72 (Woodsvale) / Woodlands Rise (Blk 785D),2
 191018,"Choa Chu Kang Ave 2 (Blk251,252,271,272,274,276,287,295, 296,296A,296B,297,297A,297C) /CCK Ave 3 (Blk282,283,285, 286,288,290-293,401,402,404-406,408,409,411-413)/Hong San Walk",6
-191018,"Jln Eunos / Jln Ismail / Jln Kechot / Jln Rahmat / Jln Yasin / Lengkong Tiga (Blk  102, 104, 106, 110, 111, 112, 113, 114) / Lor Marican / Lor Marzuki / Lor Melayu / Lor Mydin / Lor Sarina / Lor Sarina (Casa Sarina)",1
+191018,"Jln Eunos / Jln Ismail / Jln Kechot / Jln Rahmat / Jln Yasin / Lengkong Tiga (Blk 102, 104, 106, 110, 111, 112, 113, 114) / Lor Marican / Lor Marzuki / Lor Melayu / Lor Mydin / Lor Sarina / Lor Sarina (Casa Sarina)",1
 191018,Jln Grisek / Jln Kembangan / Jln Krian /Jln Lapang / Jln Sayang / Jln Selamat /Jln Senang / Jln Sentosa / Jln Senyum /Jln Waringin / Waringin Pk,5
 191018,"Lor Lew Lian (Blk 3, 4, 6, 7, 8) / Lew Lian Vale (Jade Residences) / Lor Ong Lye / Lor Ong Lye (Rosalia Pk) / S'goon Ave 1 / S'goon Ave 1 (Blk 425, 426) / S'goon Ctrl (Blk 409, 411, 413, 414, 415,417, 418, 421, 423, 424, 427) / S'goon Ter",4
 191018,"Compassvale Ln(Blk 207A, 207B, 208,209C, 210A, 210C, 211C)/Compassvale Lk (Blk 267A)/Rivervale Dr (Blk 117A,117B, 117C, 119B)/Rivervale Lk (Park Green)/Rivervale Walk (Blk 101-105,107-110)/Sengkang East Ave(Austville Residences, Riversound Residences)",4
@@ -3656,7 +3656,7 @@ Gdns)",6
 191115,"Jurong West St 61 (Blk 625, 637, 639, 640,641, 642, 643, 644, 645, 646, 647, 648C,648D) / Jurong West St 65 (Blk 617)",24
 191115,Elias Rd / Pasir Ris Ave / Pasir Ris Hts /Pasir Ris Ln / Pasir Ris Rd / Pasir Ris Ter / Pasir Ris Way / Riverina Cres / Riverina View,21
 191115,"Bedok Reservoir Rd (Blk 118, 123, 635, 636,637, 640-644) / Jln Damai (Blk 661, 665,670, 671) / Jln Tenaga (Blk 645, 647-654,656, 658, 659)",9
-191115,"Jln Chermai / Jln Kenarah / Jln Keruing / Jln Lakum / Jln Pelajau / Jln Redop / Jln Rengas  / Jln Selaseh / Kelulut Hill / Seletar Cres / Seletar Ct / Seletar Hills Dr / Seletar Rd / Seletar Rd (Seletar Park Residence, The Greenwich)",20
+191115,"Jln Chermai / Jln Kenarah / Jln Keruing / Jln Lakum / Jln Pelajau / Jln Redop / Jln Rengas / Jln Selaseh / Kelulut Hill / Seletar Cres / Seletar Ct / Seletar Hills Dr / Seletar Rd / Seletar Rd (Seletar Park Residence, The Greenwich)",20
 191115,"Begonia Ln, Ter / Mimosa Cres, Rd, View /Saraca Dr, Pl, Rd, Ter, View, Walk",32
 191115,"Bt Mugliston / Gerald Cres, Dr, Ter / Gerald Dr (Seletar Springs Condo) / Jln Kechubong / Mugliston Gdns, Pk, Walk",13
 191115,"Rivervale Cres (Blk 148, 150, 152, 185A, 185C) / Rivervale Dr (Blk 186A, 186B, 186C, 186D, 187A, 188A, 188B, 188C,189C,191B, 192A, 192B)",6
@@ -3924,7 +3924,7 @@ Rivervale Dr (Blk 144, 146)",2
 191206,"Kurau Gr / Lor J Telok Kurau / Lor K Telok Kurau / Lor L Telok Kurau / Lor L Telok Kurau (Blue Coral, Sunnyvale Residences)",1
 191206,Jln Chegar / Jln Kuak / Jln Pintau / Sin Ming Rd (Blk 25),7
 191206,Lew Lian Vale (Jade Residences) / S'goon Ave 1 / S'goon Ave 1 (Blk 425),2
-191206,Petir Rd (Maysprings)     ,3
+191206,Petir Rd (Maysprings)   ,3
 191206,"Ang Mo Kio Ave 1 (Blk 319, 321,338) / Ang Mo Kio Ave 3 (Blk 312)/ Ang Mo Kio St 31 (Blk 315A)",3
 191206,"Fajar Rd (Blk 417, 418) / Saujana Rd (Blk 411, 412, 416)",6
 191206,Jurong Lake Lk (Lake Grande) / Jurong West St 41 (The Lakeshore) / Jurong West St 52 (Blk 517A),3
@@ -3933,7 +3933,7 @@ Rivervale Dr (Blk 144, 146)",2
 191206,"Fernvale Ln (Blk 403C) / Fernvale Rd (Blk 406B, 407A, 410B)",3
 191206,West Coast Ln / West Coast Ter / West Coast Pl,5
 191206,Bedok Nth Ave 4 (Blk 94B) / Jln Pari Kikis / Pari Dedap Walk (Tanamera Crest),2
-191206,Crowhurst Dr / S'goon Gdn Way  ,2
+191206,Crowhurst Dr / S'goon Gdn Way ,2
 191206,Hazel Pk Ter / Hazel Pk Ter (Hazel Pk Condo),2
 191206,"Hougang St 91 (Blk 971, 973, 974,975)",2
 191206,Kang Choo Bin Walk / Poh Huat Cres / Poh Huat Dr,3
@@ -3974,7 +3974,7 @@ Rivervale Dr (Blk 144, 146)",2
 191213,Chuan Hoe Ave / Parry Ave / Parry Rd / Parry View / Parry Walk /Parry Ter / Pk Villas Green / Park Villas Rise / Poh Huat Ter / Poh Huat Rd West (Nouvelle Pk) / Sandilands Rd / Terrasse Ln,1
 191213,Jln Paras / Jln Senang / Lengkong Tujoh / Lengkong Tujoh (Vacanza @ East) / Jln Paras / Senang Cres /Taman Selamat,16
 191213,"Lompang Rd (Blk 175) / Gangsa Rd (Blk 146, 148, 152, 155, 154, 165, 166, 170) / Pending Rd (Blk 113, 115, 127, 128) / Petir Rd (Blk 137, 142, 143, 149, 150, 151)",19
-191213,Loyang Ave (Loyang Valley)    ,3
+191213,Loyang Ave (Loyang Valley)  ,3
 191213,"Ang Mo Kio Ave 2 (Blk 311, 543, 599) / Ang Mo Kio Ave 4 (Blk 117, 172, 175, 177, 178) / Ang Mo Kio Ave 5 (Blk 179, 180, 182)",17
 191213,Jln Antoi / Jln Kelulut / Jln Keruing / Jln Ketumbit / Jln Sindor / Seletar Hills Dr,3
 191213,"Aroozoo Ln / Charlton Rd / Hougang St 11 (Blk 154, 155, 156,158) / Hougang St 11 (The Minton)/ Jln Geneng / Lor Ah Soo (Blk 143) / Surin Ln / Surin Rd",4
@@ -4047,7 +4047,7 @@ Rivervale Dr (Blk 144, 146)",2
 191220,Petir Rd (Maysprings) / Upp Bt Timah Rd (The Linear),4
 191220,"Fajar Rd (Blk 417, 418, 438, 439) /Saujana Rd (Blk 411, 412, 413,416)",4
 191220,Hazel Pk Ter / Hazel Pk Ter (Hazel Pk Condo),3
-191220,Jln Kechubong          ,4
+191220,Jln Kechubong     ,4
 191220,Jln Pari Burong / Jln Pari Kikis / Jln Simpang Bedok / Peakville Ter,5
 191220,"Yishun Ave 3 (Blk 772, 773, 774)",5
 191220,West Coast Ln / West Coast Ter /West Coast Pl,2

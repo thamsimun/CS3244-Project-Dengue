@@ -1630,7 +1630,7 @@
 140411,"Eunos Cres (Blk 33, 35)",2
 140411,Hougang St 11 / Lor Ah Soo (Blk 140),1
 140411,Jln Membina,2
-140411,Marine Cres  (Blk 27) / Marine Ter (Blk 15),2
+140411,Marine Cres (Blk 27) / Marine Ter (Blk 15),2
 140411,"Woodlands St 81 (Blk 801,810)",2
 140414,"Compassvale Dr(Blk 204B,204D, 227B) /CompassvaleRd / Sengkang Sq /CompassvaleRd (Blk 203A,203B, 203C) /CompassvaleWalk (Blk 223A,223B, 223C,223D, 224A,224B, 224C,225A, 225B,225C, 226B,228C, 231, 232,234, 236, 237,239, 240, 241) /Compassvale Ln(Blk 205C,206A, 206B,206D)",34
 140414,"Aroozoo Ave /Hougang Ave 1(Blk 102, 103,104, 106, 108,109, 110, 111,112, 115, 116,119, 238) /Hougang Street21 (Blk 237) /Hougang St 22(Blk 239, 240,242, 245) JlnLepas / JlnPelikat / JlnSamarindaHougang Street",3
@@ -1654,7 +1654,7 @@
 140414,Ho Ching Rd (Blk 120) / Yuan Ching Rd,2
 140414,Hougang St 11 / Lor Ah Soo (Blk 140),1
 140414,Kee Choe Ave / Macpherson Rd,2
-140414,Marine Cres  (Blk 27) / Marine Ter (Blk 15),1
+140414,Marine Cres (Blk 27) / Marine Ter (Blk 15),1
 140414,Marlene Ave / St Heliers Ave,2
 140414,Peakville Ave / Tanah Merah Kechil Ave,2
 140414,S'goon Central (Blk 201) / Recreation Ln,2
@@ -3418,7 +3418,7 @@
 140801,"Ang Mo Kio Ave 4 (Blk 172, 173)",2
 140801,Bedok Reservoir Rd/ Bedok Reservoir Rd (Blk 744),2
 140801,"Bishan St 12 (Blk 115, 116)",2
-140801,Brighton  Cres / S'goon Gdn Way,1
+140801,Brighton Cres / S'goon Gdn Way,1
 140801,Bt Batok St 32 (Blk 316) /Bt Batok St 33 (Blk 322),2
 140801,Charlton Ln,2
 140801,Choa Chu Kang Ave 1 (Blk 132),2
@@ -3529,7 +3529,7 @@
 140805,Ang Mo Kio Ave 3 (Blk 314),1
 140805,Ang Mo Kio Ave 4 (Blk 256) / Ang Mo Kio St 21 (Blk 253),1
 140805,"Bishan St 13 (Blk 163, 167)",1
-140805,Brighton  Cres / S'goon Gdn Way,2
+140805,Brighton Cres / S'goon Gdn Way,2
 140805,Bt Batok St 32 (Blk 316) /Bt Batok St 33 (Blk 322),1
 140805,Butterworth Ln / Ipoh Ln,2
 140805,Charlton Ln,2
@@ -3708,7 +3708,7 @@
 140812,"Yishun St 81 (Blk 867, 872, 873)",1
 140812,"Ang Mo Kio Ave 1 (Blk 215, 220)",1
 140812,Bendemeer Rd (Blk 43),1
-140812,Brighton  Cres / S'goon Gdn Way,1
+140812,Brighton Cres / S'goon Gdn Way,1
 140812,Carmichael Rd,2
 140812,"Compassvale Link (Blk 269B, 275C)",2
 140812,Jln Hock Chye / Jln Teliti,2
@@ -3884,7 +3884,7 @@
 140819,"Tampines St 41 (Blk 416,418)",2
 140819,"Telok Blangah Cres (Blk 14A, 21)",1
 140819,"Telok Blangah Hts (Blk 59, 61)",2
-140819,"Upp Boon Keng Rd  (Blk 14A, 16)",2
+140819,"Upp Boon Keng Rd (Blk 14A, 16)",2
 140819,Woodlands Dr 72,2
 140819,"Choa ChuKang Ave 2 /Choa Chu Kang Ave 2(Blk 296,296A, 296B,296C, 296D,296E, 297,297A,297B, 297C,297D) / ChoaChu KangAve 3 / ChoaChu KangAve 5 (Blk476A, 476B,476C, 476D,483, 484,484A, 484B,484D, 485,485A, 485B,485C, 485D,486) / ChoaChu KangAve 5 / KeatHong Cl",2
 140819,"Choa ChuKang Ave 2(Blk 271,272, 273,274, 275,276, 287,294, 295) /Choa ChuKang Ave 3(Blk 280,281, 282,283, 284,285, 286,287, 288,289, 290,291, 292,293, 401,402, 403,404, 405,406, 408,409, 411,412, 469,470, 471,472, 473,474) / ChoaChu KangAve 4 (Blk414, 417,420, 421, 422, 423,425, 426,427, 430,431, 435,440, 443,446, 447,448, 449,452, 454,458, 460,462, 463,465)",2
@@ -4976,7 +4976,7 @@
 141024,Geylang Rd / Lor 4 Geylang,3
 141024,S'goon Central (Blk 419),2
 141024,Amber Gdns,1
-141024,Chartwell Dr / Jln Nira / Medway  Dr,1
+141024,Chartwell Dr / Jln Nira / Medway Dr,1
 141024,"Lor 1 Toa Payoh (Blk 117, 119,128)",1
 141024,Middle Rd,2
 141024,"New Upp Changi Rd (Blk 53, 55)",1
@@ -5018,7 +5018,7 @@
 141027,Geylang Rd / Lor 4 Geylang,2
 141027,"New Upp Changi Rd (Blk 53, 55)",2
 141027,Amber Gdns,1
-141027,Chartwell Dr / Jln Nira / Medway  Dr,1
+141027,Chartwell Dr / Jln Nira / Medway Dr,1
 141027,Jln Teck Whye (Blk 157),3
 141027,"Lor 14, 16Geylang",3
 141027,Middle Rd,2

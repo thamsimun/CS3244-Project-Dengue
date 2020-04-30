@@ -1,0 +1,1501 @@
+Year,Week,weather station,Max cases with onset in last 2 weeks,Average cases with onset in last 2 weeks,Min cases with onset in last 2 weeks
+2014,1,Changi,20,20.0,20
+2014,1,Ang Mo Kio,87,87.0,87
+2014,1,Khatib,20,20.0,20
+2014,1,Tuas South,7,7.0,7
+2014,1,Marina Barrage,21,21.0,21
+2014,2,Changi,21,17.5,14
+2014,2,Ang Mo Kio,91,79.5,68
+2014,2,Khatib,35,25.0,15
+2014,2,Tuas South,34,22.0,10
+2014,2,Marina Barrage,43,31.5,20
+2014,3,Changi,11,10.0,9
+2014,3,Ang Mo Kio,95,91.5,88
+2014,3,Khatib,41,37.5,34
+2014,3,Tuas South,26,26.0,26
+2014,3,Marina Barrage,40,37.5,35
+2014,4,Changi,12,9.5,7
+2014,4,Ang Mo Kio,69,69.0,69
+2014,4,Khatib,40,33.0,26
+2014,4,Tuas South,14,13.5,13
+2014,4,Marina Barrage,38,29.5,21
+2014,5,Changi,15,10.333333333333334,7
+2014,5,Ang Mo Kio,57,54.666666666666664,50
+2014,5,Khatib,27,23.333333333333332,19
+2014,5,Tuas South,8,7.0,6
+2014,5,Marina Barrage,34,30.0,24
+2014,6,Changi,14,11.25,10
+2014,6,Ang Mo Kio,50,46.75,37
+2014,6,Khatib,32,26.75,22
+2014,6,Tuas South,5,4.5,4
+2014,6,Marina Barrage,30,27.75,23
+2014,7,Changi,10,4.25,2
+2014,7,Ang Mo Kio,72,60.0,45
+2014,7,Khatib,16,11.0,7
+2014,7,Tuas South,15,11.0,6
+2014,7,Marina Barrage,23,16.75,11
+2014,8,Changi,1,0.3333333333333333,0
+2014,8,Ang Mo Kio,89,74.0,60
+2014,8,Khatib,14,10.333333333333334,7
+2014,8,Tuas South,12,11.333333333333334,11
+2014,8,Marina Barrage,30,27.666666666666668,24
+2014,9,Changi,0,0.0,0
+2014,9,Ang Mo Kio,51,45.666666666666664,36
+2014,9,Khatib,10,7.333333333333333,6
+2014,9,Tuas South,9,5.333333333333333,1
+2014,9,Marina Barrage,21,10.0,3
+2014,10,Changi,9,4.5,0
+2014,10,Ang Mo Kio,38,32.5,27
+2014,10,Khatib,5,3.5,2
+2014,10,Tuas South,4,2.5,1
+2014,10,Marina Barrage,16,13.0,7
+2014,11,Changi,17,13.666666666666666,10
+2014,11,Ang Mo Kio,70,58.0,40
+2014,11,Khatib,7,5.333333333333333,3
+2014,11,Tuas South,5,3.3333333333333335,1
+2014,11,Marina Barrage,14,10.333333333333334,8
+2014,12,Changi,26,22.0,18
+2014,12,Ang Mo Kio,116,106.0,96
+2014,12,Khatib,7,5.0,3
+2014,12,Tuas South,6,5.0,4
+2014,12,Marina Barrage,12,10.0,8
+2014,13,Changi,32,25.666666666666668,15
+2014,13,Ang Mo Kio,136,110.33333333333333,72
+2014,13,Khatib,10,8.666666666666666,7
+2014,13,Tuas South,0,0.0,0
+2014,13,Marina Barrage,23,18.0,15
+2014,14,Changi,9,5.5,2
+2014,14,Ang Mo Kio,96,85.5,75
+2014,14,Khatib,9,6.0,3
+2014,14,Tuas South,3,1.5,0
+2014,14,Marina Barrage,32,31.5,31
+2014,15,Changi,5,3.6666666666666665,3
+2014,15,Ang Mo Kio,87,81.0,76
+2014,15,Khatib,2,2.0,2
+2014,15,Tuas South,4,3.0,2
+2014,15,Marina Barrage,22,17.666666666666668,15
+2014,16,Changi,4,3.0,2
+2014,16,Ang Mo Kio,115,100.0,85
+2014,16,Khatib,3,1.5,0
+2014,16,Tuas South,5,2.5,0
+2014,16,Marina Barrage,9,7.5,6
+2014,17,Changi,4,3.0,2
+2014,17,Ang Mo Kio,128,113.66666666666667,90
+2014,17,Khatib,0,0.0,0
+2014,17,Tuas South,2,0.6666666666666666,0
+2014,17,Marina Barrage,17,9.333333333333334,4
+2014,18,Changi,0,0.0,0
+2014,18,Ang Mo Kio,100,100.0,100
+2014,18,Khatib,0,0.0,0
+2014,18,Tuas South,3,3.0,3
+2014,18,Marina Barrage,16,16.0,16
+2014,19,Changi,4,2.5,1
+2014,19,Ang Mo Kio,78,71.5,65
+2014,19,Khatib,4,3.5,3
+2014,19,Tuas South,8,4.0,0
+2014,19,Marina Barrage,9,9.0,9
+2014,20,Changi,6,4.5,3
+2014,20,Ang Mo Kio,86,68.0,50
+2014,20,Khatib,4,4.0,4
+2014,20,Tuas South,9,4.5,0
+2014,20,Marina Barrage,9,8.5,8
+2014,21,Changi,40,25.0,10
+2014,21,Ang Mo Kio,124,99.0,74
+2014,21,Khatib,2,1.0,0
+2014,21,Tuas South,14,13.0,12
+2014,21,Marina Barrage,18,12.5,7
+2014,22,Changi,54,41.0,28
+2014,22,Ang Mo Kio,184,153.0,122
+2014,22,Khatib,2,1.0,0
+2014,22,Tuas South,7,4.5,2
+2014,22,Marina Barrage,33,27.5,22
+2014,23,Changi,51,41.0,31
+2014,23,Ang Mo Kio,201,179.0,157
+2014,23,Khatib,4,3.0,2
+2014,23,Tuas South,2,1.0,0
+2014,23,Marina Barrage,43,33.5,24
+2014,24,Changi,54,48.0,42
+2014,24,Ang Mo Kio,212,191.0,170
+2014,24,Khatib,9,5.0,1
+2014,24,Tuas South,5,3.5,2
+2014,24,Marina Barrage,39,36.5,34
+2014,25,Changi,52,43.5,35
+2014,25,Ang Mo Kio,201,190.0,179
+2014,25,Khatib,6,5.5,5
+2014,25,Tuas South,6,4.0,2
+2014,25,Marina Barrage,26,26.0,26
+2014,26,Changi,68,66.0,64
+2014,26,Ang Mo Kio,209,205.0,201
+2014,26,Khatib,14,9.0,4
+2014,26,Tuas South,6,3.0,0
+2014,26,Marina Barrage,42,35.5,29
+2014,27,Changi,81,78.0,75
+2014,27,Ang Mo Kio,234,234.0,234
+2014,27,Khatib,84,54.5,25
+2014,27,Tuas South,8,5.0,2
+2014,27,Marina Barrage,59,47.5,36
+2014,28,Changi,67,66.5,66
+2014,28,Ang Mo Kio,240,217.0,194
+2014,28,Khatib,197,149.5,102
+2014,28,Tuas South,15,12.5,10
+2014,28,Marina Barrage,114,83.0,52
+2014,29,Changi,67,53.5,40
+2014,29,Ang Mo Kio,241,215.5,190
+2014,29,Khatib,323,298.5,274
+2014,29,Tuas South,15,10.5,6
+2014,29,Marina Barrage,74,63.5,53
+2014,30,Changi,31,30.0,29
+2014,30,Ang Mo Kio,185,174.0,163
+2014,30,Khatib,247,245.5,244
+2014,30,Tuas South,5,5.0,5
+2014,30,Marina Barrage,50,45.5,41
+2014,31,Changi,40,29.0,18
+2014,31,Ang Mo Kio,156,144.5,133
+2014,31,Khatib,123,121.5,120
+2014,31,Tuas South,5,4.0,3
+2014,31,Marina Barrage,65,58.0,51
+2014,32,Changi,31,29.5,28
+2014,32,Ang Mo Kio,163,161.5,160
+2014,32,Khatib,71,58.5,46
+2014,32,Tuas South,14,10.0,6
+2014,32,Marina Barrage,62,51.5,41
+2014,33,Changi,37,32.0,27
+2014,33,Ang Mo Kio,144,141.0,138
+2014,33,Khatib,40,38.5,37
+2014,33,Tuas South,9,5.5,2
+2014,33,Marina Barrage,42,41.0,40
+2014,34,Changi,39,37.0,35
+2014,34,Ang Mo Kio,95,91.0,87
+2014,34,Khatib,53,48.5,44
+2014,34,Tuas South,8,7.0,6
+2014,34,Marina Barrage,43,32.5,22
+2014,35,Changi,36,33.0,30
+2014,35,Ang Mo Kio,74,72.5,71
+2014,35,Khatib,58,52.5,47
+2014,35,Tuas South,7,4.0,1
+2014,35,Marina Barrage,14,12.0,10
+2014,36,Changi,35,32.5,30
+2014,36,Ang Mo Kio,51,47.0,43
+2014,36,Khatib,62,53.5,45
+2014,36,Tuas South,8,7.0,6
+2014,36,Marina Barrage,22,21.5,21
+2014,37,Changi,31,30.5,30
+2014,37,Ang Mo Kio,59,53.5,48
+2014,37,Khatib,52,51.0,50
+2014,37,Tuas South,8,5.0,2
+2014,37,Marina Barrage,32,27.5,23
+2014,38,Changi,22,21.5,21
+2014,38,Ang Mo Kio,70,65.5,61
+2014,38,Khatib,48,46.0,44
+2014,38,Tuas South,3,2.5,2
+2014,38,Marina Barrage,31,27.5,24
+2014,39,Changi,29,26.5,24
+2014,39,Ang Mo Kio,62,59.5,57
+2014,39,Khatib,46,44.0,42
+2014,39,Tuas South,12,7.5,3
+2014,39,Marina Barrage,41,35.5,30
+2014,40,Changi,42,32.5,23
+2014,40,Ang Mo Kio,78,69.5,61
+2014,40,Khatib,34,32.0,30
+2014,40,Tuas South,22,15.5,9
+2014,40,Marina Barrage,36,35.0,34
+2014,41,Changi,29,26.0,23
+2014,41,Ang Mo Kio,56,53.5,51
+2014,41,Khatib,22,21.0,20
+2014,41,Tuas South,20,18.5,17
+2014,41,Marina Barrage,20,19.5,19
+2014,42,Changi,29,20.5,12
+2014,42,Ang Mo Kio,47,46.0,45
+2014,42,Khatib,25,19.5,14
+2014,42,Tuas South,17,14.5,12
+2014,42,Marina Barrage,25,21.0,17
+2014,43,Changi,33,32.0,31
+2014,43,Ang Mo Kio,50,47.5,45
+2014,43,Khatib,26,19.5,13
+2014,43,Tuas South,10,9.0,8
+2014,43,Marina Barrage,31,30.5,30
+2014,44,Changi,25,24.5,24
+2014,44,Ang Mo Kio,47,37.0,27
+2014,44,Khatib,25,19.0,13
+2014,44,Tuas South,4,4.0,4
+2014,44,Marina Barrage,25,17.0,9
+2014,45,Changi,15,15.0,15
+2014,45,Ang Mo Kio,36,33.0,30
+2014,45,Khatib,21,20.0,19
+2014,45,Tuas South,1,0.5,0
+2014,45,Marina Barrage,9,8.0,7
+2014,46,Changi,8,6.5,5
+2014,46,Ang Mo Kio,30,26.0,22
+2014,46,Khatib,12,12.0,12
+2014,46,Tuas South,1,0.5,0
+2014,46,Marina Barrage,10,9.5,9
+2014,47,Changi,9,8.0,7
+2014,47,Ang Mo Kio,25,21.0,17
+2014,47,Khatib,12,9.0,6
+2014,47,Tuas South,1,1.0,1
+2014,47,Marina Barrage,17,13.5,10
+2014,48,Changi,9,7.0,5
+2014,48,Ang Mo Kio,24,22.0,20
+2014,48,Khatib,8,6.0,4
+2014,48,Tuas South,3,2.0,1
+2014,48,Marina Barrage,17,12.5,8
+2014,49,Changi,16,12.0,8
+2014,49,Ang Mo Kio,27,22.5,18
+2014,49,Khatib,7,6.5,6
+2014,49,Tuas South,5,4.0,3
+2014,49,Marina Barrage,13,9.5,6
+2014,50,Changi,21,19.0,17
+2014,50,Ang Mo Kio,39,32.0,25
+2014,50,Khatib,4,2.5,1
+2014,50,Tuas South,2,1.5,1
+2014,50,Marina Barrage,12,11.5,11
+2014,51,Changi,17,15.5,14
+2014,51,Ang Mo Kio,34,25.0,16
+2014,51,Khatib,5,4.0,3
+2014,51,Tuas South,4,3.5,3
+2014,51,Marina Barrage,15,10.5,6
+2014,52,Changi,10,7.0,5
+2014,52,Ang Mo Kio,30,26.666666666666668,20
+2014,52,Khatib,4,3.0,1
+2014,52,Tuas South,2,1.0,0
+2014,52,Marina Barrage,19,17.0,14
+2015,1,Changi,7,7.0,7
+2015,1,Ang Mo Kio,24,24.0,24
+2015,1,Khatib,8,8.0,8
+2015,1,Tuas South,1,1.0,1
+2015,1,Marina Barrage,14,14.0,14
+2015,2,Changi,18,15.5,13
+2015,2,Ang Mo Kio,37,37.0,37
+2015,2,Khatib,16,14.5,13
+2015,2,Tuas South,12,10.5,9
+2015,2,Marina Barrage,16,12.0,8
+2015,3,Changi,15,13.5,12
+2015,3,Ang Mo Kio,60,49.5,39
+2015,3,Khatib,12,9.5,7
+2015,3,Tuas South,9,7.5,6
+2015,3,Marina Barrage,21,17.0,13
+2015,4,Changi,19,13.5,8
+2015,4,Ang Mo Kio,57,55.0,53
+2015,4,Khatib,7,5.5,4
+2015,4,Tuas South,4,3.5,3
+2015,4,Marina Barrage,17,15.0,13
+2015,5,Changi,26,22.0,18
+2015,5,Ang Mo Kio,64,49.5,35
+2015,5,Khatib,13,8.0,3
+2015,5,Tuas South,6,4.5,3
+2015,5,Marina Barrage,10,10.0,10
+2015,6,Changi,29,28.0,27
+2015,6,Ang Mo Kio,49,42.5,36
+2015,6,Khatib,12,10.0,8
+2015,6,Tuas South,10,7.0,4
+2015,6,Marina Barrage,23,17.0,11
+2015,7,Changi,27,21.5,16
+2015,7,Ang Mo Kio,23,22.5,22
+2015,7,Khatib,13,10.5,8
+2015,7,Tuas South,6,5.0,4
+2015,7,Marina Barrage,19,17.5,16
+2015,8,Changi,18,18.0,18
+2015,8,Ang Mo Kio,19,19.0,19
+2015,8,Khatib,12,12.0,12
+2015,8,Tuas South,1,1.0,1
+2015,8,Marina Barrage,10,10.0,10
+2015,9,Changi,6,4.0,2
+2015,9,Ang Mo Kio,28,21.0,14
+2015,9,Khatib,5,3.5,2
+2015,9,Tuas South,2,1.0,0
+2015,9,Marina Barrage,11,10.5,10
+2015,10,Changi,11,11.0,11
+2015,10,Ang Mo Kio,28,22.0,16
+2015,10,Khatib,4,3.0,2
+2015,10,Tuas South,4,3.0,2
+2015,10,Marina Barrage,13,12.5,12
+2015,11,Changi,18,12.0,6
+2015,11,Ang Mo Kio,14,13.5,13
+2015,11,Khatib,15,9.5,4
+2015,11,Tuas South,5,2.5,0
+2015,11,Marina Barrage,15,13.0,11
+2015,12,Changi,11,7.5,4
+2015,12,Ang Mo Kio,14,12.5,11
+2015,12,Khatib,17,14.0,11
+2015,12,Tuas South,2,1.0,0
+2015,12,Marina Barrage,9,7.0,5
+2015,13,Changi,4,3.5,3
+2015,13,Ang Mo Kio,11,10.0,9
+2015,13,Khatib,14,11.5,9
+2015,13,Tuas South,2,1.5,1
+2015,13,Marina Barrage,14,9.5,5
+2015,14,Changi,5,4.5,4
+2015,14,Ang Mo Kio,9,7.0,5
+2015,14,Khatib,20,16.5,13
+2015,14,Tuas South,2,1.0,0
+2015,14,Marina Barrage,19,14.5,10
+2015,15,Changi,3,2.5,2
+2015,15,Ang Mo Kio,10,9.0,8
+2015,15,Khatib,14,13.0,12
+2015,15,Tuas South,2,1.5,1
+2015,15,Marina Barrage,14,11.0,8
+2015,16,Changi,8,5.0,2
+2015,16,Ang Mo Kio,5,3.5,2
+2015,16,Khatib,12,10.5,9
+2015,16,Tuas South,1,0.5,0
+2015,16,Marina Barrage,13,11.5,10
+2015,17,Changi,9,9.0,9
+2015,17,Ang Mo Kio,5,4.5,4
+2015,17,Khatib,9,7.5,6
+2015,17,Tuas South,0,0.0,0
+2015,17,Marina Barrage,12,9.5,7
+2015,18,Changi,12,9.0,6
+2015,18,Ang Mo Kio,5,4.5,4
+2015,18,Khatib,6,5.5,5
+2015,18,Tuas South,0,0.0,0
+2015,18,Marina Barrage,13,8.0,3
+2015,19,Changi,25,25.0,25
+2015,19,Ang Mo Kio,10,10.0,10
+2015,19,Khatib,5,5.0,5
+2015,19,Tuas South,2,2.0,2
+2015,19,Marina Barrage,15,15.0,15
+2015,20,Changi,24,23.0,22
+2015,20,Ang Mo Kio,17,13.0,9
+2015,20,Khatib,11,8.0,5
+2015,20,Tuas South,3,3.0,3
+2015,20,Marina Barrage,13,12.0,11
+2015,21,Changi,12,10.5,9
+2015,21,Ang Mo Kio,28,25.0,22
+2015,21,Khatib,7,4.5,2
+2015,21,Tuas South,2,1.0,0
+2015,21,Marina Barrage,8,6.0,4
+2015,22,Changi,8,6.5,5
+2015,22,Ang Mo Kio,39,32.5,26
+2015,22,Khatib,16,9.0,2
+2015,22,Tuas South,0,0.0,0
+2015,22,Marina Barrage,5,2.5,0
+2015,23,Changi,9,8.0,7
+2015,23,Ang Mo Kio,33,33.0,33
+2015,23,Khatib,15,15.0,15
+2015,23,Tuas South,2,1.0,0
+2015,23,Marina Barrage,6,4.5,3
+2015,24,Changi,15,12.0,9
+2015,24,Ang Mo Kio,30,22.5,15
+2015,24,Khatib,15,12.0,9
+2015,24,Tuas South,6,5.0,4
+2015,24,Marina Barrage,9,6.5,4
+2015,25,Changi,14,14.0,14
+2015,25,Ang Mo Kio,22,22.0,22
+2015,25,Khatib,12,12.0,12
+2015,25,Tuas South,6,6.0,6
+2015,25,Marina Barrage,5,5.0,5
+2015,26,Changi,19,14.0,9
+2015,26,Ang Mo Kio,56,50.5,45
+2015,26,Khatib,28,22.5,17
+2015,26,Tuas South,3,1.5,0
+2015,26,Marina Barrage,16,12.5,9
+2015,27,Changi,21,19.0,17
+2015,27,Ang Mo Kio,67,61.5,56
+2015,27,Khatib,28,27.0,26
+2015,27,Tuas South,7,5.0,3
+2015,27,Marina Barrage,13,12.5,12
+2015,28,Changi,17,15.0,13
+2015,28,Ang Mo Kio,65,58.0,51
+2015,28,Khatib,38,28.5,19
+2015,28,Tuas South,6,5.0,4
+2015,28,Marina Barrage,13,10.5,8
+2015,29,Changi,25,18.5,12
+2015,29,Ang Mo Kio,58,55.5,53
+2015,29,Khatib,48,40.5,33
+2015,29,Tuas South,2,1.0,0
+2015,29,Marina Barrage,9,7.0,5
+2015,30,Changi,19,18.5,18
+2015,30,Ang Mo Kio,72,54.0,36
+2015,30,Khatib,39,35.0,31
+2015,30,Tuas South,1,0.5,0
+2015,30,Marina Barrage,15,11.5,8
+2015,31,Changi,28,28.0,28
+2015,31,Ang Mo Kio,83,83.0,83
+2015,31,Khatib,28,28.0,28
+2015,31,Tuas South,7,7.0,7
+2015,31,Marina Barrage,7,7.0,7
+2015,32,Changi,23,23.0,23
+2015,32,Ang Mo Kio,63,63.0,63
+2015,32,Khatib,14,14.0,14
+2015,32,Tuas South,3,3.0,3
+2015,32,Marina Barrage,5,5.0,5
+2015,33,Changi,18,18.0,18
+2015,33,Ang Mo Kio,26,26.0,26
+2015,33,Khatib,17,17.0,17
+2015,33,Tuas South,5,5.0,5
+2015,33,Marina Barrage,8,8.0,8
+2015,34,Changi,9,9.0,9
+2015,34,Ang Mo Kio,19,19.0,19
+2015,34,Khatib,15,15.0,15
+2015,34,Tuas South,3,3.0,3
+2015,34,Marina Barrage,23,23.0,23
+2015,35,Changi,8,8.0,8
+2015,35,Ang Mo Kio,40,40.0,40
+2015,35,Khatib,27,27.0,27
+2015,35,Tuas South,3,3.0,3
+2015,35,Marina Barrage,26,26.0,26
+2015,36,Changi,32,25.5,19
+2015,36,Ang Mo Kio,56,41.5,27
+2015,36,Khatib,28,25.0,22
+2015,36,Tuas South,4,4.0,4
+2015,36,Marina Barrage,22,19.5,17
+2015,37,Changi,32,32.0,32
+2015,37,Ang Mo Kio,59,59.0,59
+2015,37,Khatib,36,36.0,36
+2015,37,Tuas South,3,3.0,3
+2015,37,Marina Barrage,7,7.0,7
+2015,38,Changi,18,18.0,18
+2015,38,Ang Mo Kio,41,41.0,41
+2015,38,Khatib,30,30.0,30
+2015,38,Tuas South,2,2.0,2
+2015,38,Marina Barrage,4,4.0,4
+2015,40,Changi,52,39.0,26
+2015,40,Ang Mo Kio,57,55.0,53
+2015,40,Khatib,24,22.5,21
+2015,40,Tuas South,4,4.0,4
+2015,40,Marina Barrage,20,17.5,15
+2015,41,Changi,52,52.0,52
+2015,41,Ang Mo Kio,62,62.0,62
+2015,41,Khatib,27,27.0,27
+2015,41,Tuas South,4,4.0,4
+2015,41,Marina Barrage,18,18.0,18
+2015,42,Changi,52,52.0,52
+2015,42,Ang Mo Kio,40,40.0,40
+2015,42,Khatib,21,21.0,21
+2015,42,Tuas South,3,3.0,3
+2015,42,Marina Barrage,21,21.0,21
+2015,44,Changi,35,35.0,35
+2015,44,Ang Mo Kio,64,56.0,48
+2015,44,Khatib,26,24.0,22
+2015,44,Tuas South,13,7.5,2
+2015,44,Marina Barrage,21,18.5,16
+2015,45,Changi,28,28.0,28
+2015,45,Ang Mo Kio,57,57.0,57
+2015,45,Khatib,18,18.0,18
+2015,45,Tuas South,8,8.0,8
+2015,45,Marina Barrage,14,14.0,14
+2015,46,Changi,45,45.0,45
+2015,46,Ang Mo Kio,58,58.0,58
+2015,46,Khatib,24,24.0,24
+2015,46,Tuas South,4,4.0,4
+2015,46,Marina Barrage,14,14.0,14
+2015,47,Changi,36,36.0,36
+2015,47,Ang Mo Kio,54,54.0,54
+2015,47,Khatib,18,18.0,18
+2015,47,Tuas South,0,0.0,0
+2015,47,Marina Barrage,18,18.0,18
+2015,48,Changi,38,38.0,38
+2015,48,Ang Mo Kio,38,38.0,38
+2015,48,Khatib,8,8.0,8
+2015,48,Tuas South,4,4.0,4
+2015,48,Marina Barrage,13,13.0,13
+2015,49,Changi,71,63.5,56
+2015,49,Ang Mo Kio,69,61.0,53
+2015,49,Khatib,16,12.5,9
+2015,49,Tuas South,2,1.5,1
+2015,49,Marina Barrage,24,23.0,22
+2015,51,Changi,56,56.0,56
+2015,51,Ang Mo Kio,56,56.0,56
+2015,51,Khatib,27,27.0,27
+2015,51,Tuas South,4,4.0,4
+2015,51,Marina Barrage,21,21.0,21
+2015,52,Changi,56,56.0,56
+2015,52,Ang Mo Kio,87,87.0,87
+2015,52,Khatib,22,22.0,22
+2015,52,Tuas South,11,11.0,11
+2015,52,Marina Barrage,48,48.0,48
+2015,53,Changi,93,71.0,49
+2015,53,Ang Mo Kio,119,93.0,67
+2015,53,Khatib,59,49.5,40
+2015,53,Tuas South,8,5.5,3
+2015,53,Marina Barrage,65,53.5,42
+2016,1,Changi,86,75.5,65
+2016,1,Ang Mo Kio,113,100.0,87
+2016,1,Khatib,59,48.5,38
+2016,1,Tuas South,13,10.0,7
+2016,1,Marina Barrage,77,62.0,47
+2016,2,Changi,121,106.0,91
+2016,2,Ang Mo Kio,139,124.0,109
+2016,2,Khatib,71,62.5,54
+2016,2,Tuas South,21,16.5,12
+2016,2,Marina Barrage,106,91.0,76
+2016,3,Changi,129,120.0,111
+2016,3,Ang Mo Kio,178,160.0,142
+2016,3,Khatib,98,83.5,69
+2016,3,Tuas South,35,28.5,22
+2016,3,Marina Barrage,126,111.0,96
+2016,4,Changi,116,113.0,110
+2016,4,Ang Mo Kio,187,184.0,181
+2016,4,Khatib,115,110.5,106
+2016,4,Tuas South,34,31.0,28
+2016,4,Marina Barrage,138,134.5,131
+2016,5,Changi,99,85.0,71
+2016,5,Ang Mo Kio,174,173.5,173
+2016,5,Khatib,92,91.5,91
+2016,5,Tuas South,25,22.5,20
+2016,5,Marina Barrage,118,115.0,112
+2016,6,Changi,65,59.0,53
+2016,6,Ang Mo Kio,152,147.0,142
+2016,6,Khatib,55,52.0,49
+2016,6,Tuas South,21,20.0,19
+2016,6,Marina Barrage,70,62.5,55
+2016,7,Changi,68,66.0,64
+2016,7,Ang Mo Kio,174,151.5,129
+2016,7,Khatib,59,56.5,54
+2016,7,Tuas South,24,20.0,16
+2016,7,Marina Barrage,73,59.0,45
+2016,8,Changi,66,64.5,63
+2016,8,Ang Mo Kio,185,179.5,174
+2016,8,Khatib,94,85.0,76
+2016,8,Tuas South,26,25.5,25
+2016,8,Marina Barrage,92,89.5,87
+2016,9,Changi,54,52.0,50
+2016,9,Ang Mo Kio,161,155.0,149
+2016,9,Khatib,74,67.5,61
+2016,9,Tuas South,25,21.5,18
+2016,9,Marina Barrage,57,56.0,55
+2016,10,Changi,51,49.5,48
+2016,10,Ang Mo Kio,130,117.0,104
+2016,10,Khatib,58,49.0,40
+2016,10,Tuas South,20,17.5,15
+2016,10,Marina Barrage,54,52.0,50
+2016,11,Changi,81,65.0,49
+2016,11,Ang Mo Kio,121,107.5,94
+2016,11,Khatib,34,33.0,32
+2016,11,Tuas South,12,10.5,9
+2016,11,Marina Barrage,54,50.0,46
+2016,12,Changi,59,58.0,57
+2016,12,Ang Mo Kio,121,119.0,117
+2016,12,Khatib,34,33.5,33
+2016,12,Tuas South,5,4.5,4
+2016,12,Marina Barrage,42,39.0,36
+2016,13,Changi,62,58.0,54
+2016,13,Ang Mo Kio,113,110.5,108
+2016,13,Khatib,16,16.0,16
+2016,13,Tuas South,2,1.5,1
+2016,13,Marina Barrage,43,37.5,32
+2016,14,Changi,70,62.0,54
+2016,14,Ang Mo Kio,112,105.0,98
+2016,14,Khatib,26,20.0,14
+2016,14,Tuas South,10,6.0,2
+2016,14,Marina Barrage,41,40.5,40
+2016,15,Changi,53,48.0,43
+2016,15,Ang Mo Kio,68,67.0,66
+2016,15,Khatib,19,16.5,14
+2016,15,Tuas South,9,7.5,6
+2016,15,Marina Barrage,41,38.0,35
+2016,16,Changi,22,21.0,20
+2016,16,Ang Mo Kio,58,57.5,57
+2016,16,Khatib,20,17.0,14
+2016,16,Tuas South,2,1.0,0
+2016,16,Marina Barrage,31,30.0,29
+2016,17,Changi,48,33.5,19
+2016,17,Ang Mo Kio,64,59.5,55
+2016,17,Khatib,19,18.5,18
+2016,17,Tuas South,2,1.0,0
+2016,17,Marina Barrage,36,30.0,24
+2016,18,Changi,47,40.0,33
+2016,18,Ang Mo Kio,52,49.5,47
+2016,18,Khatib,11,11.0,11
+2016,18,Tuas South,0,0.0,0
+2016,18,Marina Barrage,48,42.0,36
+2016,19,Changi,30,27.5,25
+2016,19,Ang Mo Kio,35,31.0,27
+2016,19,Khatib,23,17.5,12
+2016,19,Tuas South,3,2.5,2
+2016,19,Marina Barrage,38,36.5,35
+2016,20,Changi,31,30.0,29
+2016,20,Ang Mo Kio,52,47.0,42
+2016,20,Khatib,49,36.5,24
+2016,20,Tuas South,1,0.5,0
+2016,20,Marina Barrage,46,40.0,34
+2016,21,Changi,19,18.5,18
+2016,21,Ang Mo Kio,33,32.5,32
+2016,21,Khatib,40,37.5,35
+2016,21,Tuas South,2,1.0,0
+2016,21,Marina Barrage,37,31.5,26
+2016,22,Changi,13,11.0,9
+2016,22,Ang Mo Kio,32,29.5,27
+2016,22,Khatib,44,38.5,33
+2016,22,Tuas South,2,1.5,1
+2016,22,Marina Barrage,36,28.5,21
+2016,23,Changi,17,12.5,8
+2016,23,Ang Mo Kio,35,29.0,23
+2016,23,Khatib,40,37.0,34
+2016,23,Tuas South,0,0.0,0
+2016,23,Marina Barrage,25,24.5,24
+2016,24,Changi,14,13.5,13
+2016,24,Ang Mo Kio,32,29.5,27
+2016,24,Khatib,30,29.0,28
+2016,24,Tuas South,2,2.0,2
+2016,24,Marina Barrage,22,21.5,21
+2016,25,Changi,23,19.5,16
+2016,25,Ang Mo Kio,22,19.5,17
+2016,25,Khatib,25,22.0,19
+2016,25,Tuas South,2,1.0,0
+2016,25,Marina Barrage,45,33.5,22
+2016,26,Changi,32,28.0,24
+2016,26,Ang Mo Kio,35,34.0,33
+2016,26,Khatib,26,24.0,22
+2016,26,Tuas South,0,0.0,0
+2016,26,Marina Barrage,51,48.5,46
+2016,27,Changi,20,19.5,19
+2016,27,Ang Mo Kio,41,36.5,32
+2016,27,Khatib,26,25.0,24
+2016,27,Tuas South,0,0.0,0
+2016,27,Marina Barrage,66,53.0,40
+2016,28,Changi,22,20.0,18
+2016,28,Ang Mo Kio,47,47.0,47
+2016,28,Khatib,36,31.5,27
+2016,28,Tuas South,0,0.0,0
+2016,28,Marina Barrage,80,73.0,66
+2016,29,Changi,37,30.5,24
+2016,29,Ang Mo Kio,34,29.5,25
+2016,29,Khatib,24,21.0,18
+2016,29,Tuas South,0,0.0,0
+2016,29,Marina Barrage,43,40.5,38
+2016,30,Changi,54,50.0,46
+2016,30,Ang Mo Kio,48,40.0,32
+2016,30,Khatib,27,21.0,15
+2016,30,Tuas South,0,0.0,0
+2016,30,Marina Barrage,34,33.5,33
+2016,31,Changi,38,35.0,32
+2016,31,Ang Mo Kio,41,37.0,33
+2016,31,Khatib,33,30.5,28
+2016,31,Tuas South,4,2.0,0
+2016,31,Marina Barrage,34,29.0,24
+2016,32,Changi,25,24.5,24
+2016,32,Ang Mo Kio,38,38.0,38
+2016,32,Khatib,22,19.5,17
+2016,32,Tuas South,7,7.0,7
+2016,32,Marina Barrage,26,26.0,26
+2016,33,Changi,39,37.0,35
+2016,33,Ang Mo Kio,35,32.0,29
+2016,33,Khatib,19,18.5,18
+2016,33,Tuas South,2,1.0,0
+2016,33,Marina Barrage,34,27.0,20
+2016,34,Changi,39,37.5,36
+2016,34,Ang Mo Kio,49,43.0,37
+2016,34,Khatib,20,19.5,19
+2016,34,Tuas South,9,6.5,4
+2016,34,Marina Barrage,49,41.5,34
+2016,35,Changi,39,35.5,32
+2016,35,Ang Mo Kio,51,44.0,37
+2016,35,Khatib,33,26.5,20
+2016,35,Tuas South,13,10.0,7
+2016,35,Marina Barrage,40,39.0,38
+2016,36,Changi,38,32.5,27
+2016,36,Ang Mo Kio,42,41.5,41
+2016,36,Khatib,31,28.0,25
+2016,36,Tuas South,13,10.5,8
+2016,36,Marina Barrage,57,50.0,43
+2016,37,Changi,31,27.0,23
+2016,37,Ang Mo Kio,27,26.5,26
+2016,37,Khatib,37,28.0,19
+2016,37,Tuas South,7,5.5,4
+2016,37,Marina Barrage,41,35.5,30
+2016,38,Changi,25,20.5,16
+2016,38,Ang Mo Kio,25,24.0,23
+2016,38,Khatib,33,31.5,30
+2016,38,Tuas South,3,3.0,3
+2016,38,Marina Barrage,27,27.0,27
+2016,39,Changi,13,12.5,12
+2016,39,Ang Mo Kio,19,12.5,6
+2016,39,Khatib,25,21.5,18
+2016,39,Tuas South,6,4.5,3
+2016,39,Marina Barrage,23,20.0,17
+2016,40,Changi,21,14.5,8
+2016,40,Ang Mo Kio,8,7.0,6
+2016,40,Khatib,14,12.5,11
+2016,40,Tuas South,5,3.5,2
+2016,40,Marina Barrage,16,15.0,14
+2016,41,Changi,20,16.5,13
+2016,41,Ang Mo Kio,20,14.5,9
+2016,41,Khatib,13,9.5,6
+2016,41,Tuas South,3,2.5,2
+2016,41,Marina Barrage,8,7.0,6
+2016,42,Changi,12,12.0,12
+2016,42,Ang Mo Kio,16,11.5,7
+2016,42,Khatib,15,10.0,5
+2016,42,Tuas South,3,1.5,0
+2016,42,Marina Barrage,8,7.0,6
+2016,43,Changi,8,7.0,6
+2016,43,Ang Mo Kio,17,12.5,8
+2016,43,Khatib,15,10.0,5
+2016,43,Tuas South,0,0.0,0
+2016,43,Marina Barrage,6,5.0,4
+2016,44,Changi,8,6.0,4
+2016,44,Ang Mo Kio,11,11.0,11
+2016,44,Khatib,5,4.0,3
+2016,44,Tuas South,0,0.0,0
+2016,44,Marina Barrage,4,3.5,3
+2016,45,Changi,8,7.5,7
+2016,45,Ang Mo Kio,8,7.5,7
+2016,45,Khatib,3,2.0,1
+2016,45,Tuas South,0,0.0,0
+2016,45,Marina Barrage,2,1.0,0
+2016,46,Changi,7,6.0,5
+2016,46,Ang Mo Kio,13,13.0,13
+2016,46,Khatib,1,0.5,0
+2016,46,Tuas South,2,1.0,0
+2016,46,Marina Barrage,0,0.0,0
+2016,47,Changi,9,6.5,4
+2016,47,Ang Mo Kio,7,5.5,4
+2016,47,Khatib,2,1.0,0
+2016,47,Tuas South,4,2.5,1
+2016,47,Marina Barrage,2,1.0,0
+2016,48,Changi,5,3.5,2
+2016,48,Ang Mo Kio,15,9.5,4
+2016,48,Khatib,9,5.5,2
+2016,48,Tuas South,4,2.5,1
+2016,48,Marina Barrage,5,3.5,2
+2016,49,Changi,6,5.5,5
+2016,49,Ang Mo Kio,15,14.5,14
+2016,49,Khatib,8,7.0,6
+2016,49,Tuas South,1,0.5,0
+2016,49,Marina Barrage,3,1.5,0
+2016,50,Changi,5,2.5,0
+2016,50,Ang Mo Kio,14,11.5,9
+2016,50,Khatib,8,7.0,6
+2016,50,Tuas South,0,0.0,0
+2016,50,Marina Barrage,0,0.0,0
+2016,51,Changi,1,0.5,0
+2016,51,Ang Mo Kio,19,15.0,11
+2016,51,Khatib,11,8.5,6
+2016,51,Tuas South,0,0.0,0
+2016,51,Marina Barrage,2,1.5,1
+2016,52,Changi,4,2.5,1
+2016,52,Ang Mo Kio,23,17.5,12
+2016,52,Khatib,10,5.5,1
+2016,52,Tuas South,0,0.0,0
+2016,52,Marina Barrage,1,0.5,0
+2017,1,Changi,5,3.0,1
+2017,1,Ang Mo Kio,13,12.0,11
+2017,1,Khatib,3,2.5,2
+2017,1,Tuas South,0,0.0,0
+2017,1,Marina Barrage,4,3.0,2
+2017,2,Changi,12,9.0,6
+2017,2,Ang Mo Kio,16,12.5,9
+2017,2,Khatib,3,1.5,0
+2017,2,Tuas South,0,0.0,0
+2017,2,Marina Barrage,5,3.5,2
+2017,3,Changi,6,5.5,5
+2017,3,Ang Mo Kio,23,21.5,20
+2017,3,Khatib,0,0.0,0
+2017,3,Tuas South,1,0.5,0
+2017,3,Marina Barrage,3,3.0,3
+2017,4,Changi,19,15.5,12
+2017,4,Ang Mo Kio,16,12.5,9
+2017,4,Khatib,4,3.0,2
+2017,4,Tuas South,2,1.0,0
+2017,4,Marina Barrage,4,2.0,0
+2017,5,Changi,8,5.5,3
+2017,5,Ang Mo Kio,7,5.5,4
+2017,5,Khatib,2,2.0,2
+2017,5,Tuas South,2,1.0,0
+2017,5,Marina Barrage,2,1.0,0
+2017,6,Changi,8,5.5,3
+2017,6,Ang Mo Kio,4,3.0,2
+2017,6,Khatib,3,2.0,1
+2017,6,Tuas South,3,2.5,2
+2017,6,Marina Barrage,7,5.0,3
+2017,7,Changi,8,6.5,5
+2017,7,Ang Mo Kio,2,2.0,2
+2017,7,Khatib,3,2.5,2
+2017,7,Tuas South,2,1.0,0
+2017,7,Marina Barrage,4,3.0,2
+2017,8,Changi,5,4.0,3
+2017,8,Ang Mo Kio,6,4.5,3
+2017,8,Khatib,2,1.5,1
+2017,8,Tuas South,2,1.0,0
+2017,8,Marina Barrage,3,2.0,1
+2017,9,Changi,6,5.5,5
+2017,9,Ang Mo Kio,7,6.5,6
+2017,9,Khatib,1,0.5,0
+2017,9,Tuas South,0,0.0,0
+2017,9,Marina Barrage,1,1.0,1
+2017,10,Changi,5,3.0,1
+2017,10,Ang Mo Kio,5,5.0,5
+2017,10,Khatib,2,1.0,0
+2017,10,Tuas South,0,0.0,0
+2017,10,Marina Barrage,0,0.0,0
+2017,11,Changi,1,1.0,1
+2017,11,Ang Mo Kio,5,2.5,0
+2017,11,Khatib,2,1.0,0
+2017,11,Tuas South,0,0.0,0
+2017,11,Marina Barrage,0,0.0,0
+2017,12,Changi,1,1.0,1
+2017,12,Ang Mo Kio,0,0.0,0
+2017,12,Khatib,0,0.0,0
+2017,12,Tuas South,0,0.0,0
+2017,12,Marina Barrage,0,0.0,0
+2017,14,Changi,6,5.5,5
+2017,14,Ang Mo Kio,0,0.0,0
+2017,14,Khatib,4,3.5,3
+2017,14,Tuas South,0,0.0,0
+2017,14,Marina Barrage,2,1.0,0
+2017,15,Changi,5,4.5,4
+2017,15,Ang Mo Kio,3,1.5,0
+2017,15,Khatib,2,1.0,0
+2017,15,Tuas South,0,0.0,0
+2017,15,Marina Barrage,1,0.5,0
+2017,16,Changi,2,2.0,2
+2017,16,Ang Mo Kio,3,2.5,2
+2017,16,Khatib,3,2.5,2
+2017,16,Tuas South,0,0.0,0
+2017,16,Marina Barrage,0,0.0,0
+2017,17,Changi,4,2.0,0
+2017,17,Ang Mo Kio,2,1.5,1
+2017,17,Khatib,5,3.5,2
+2017,17,Tuas South,0,0.0,0
+2017,17,Marina Barrage,0,0.0,0
+2017,18,Changi,0,0.0,0
+2017,18,Ang Mo Kio,1,0.5,0
+2017,18,Khatib,3,3.0,3
+2017,18,Tuas South,0,0.0,0
+2017,18,Marina Barrage,0,0.0,0
+2017,19,Changi,4,2.0,0
+2017,19,Ang Mo Kio,2,1.0,0
+2017,19,Khatib,2,1.5,1
+2017,19,Tuas South,2,1.0,0
+2017,19,Marina Barrage,0,0.0,0
+2017,20,Changi,4,2.5,1
+2017,20,Ang Mo Kio,8,6.0,4
+2017,20,Khatib,1,0.5,0
+2017,20,Tuas South,2,1.5,1
+2017,20,Marina Barrage,0,0.0,0
+2017,21,Changi,2,1.5,1
+2017,21,Ang Mo Kio,11,8.5,6
+2017,21,Khatib,4,3.5,3
+2017,21,Tuas South,1,1.0,1
+2017,21,Marina Barrage,0,0.0,0
+2017,22,Changi,6,3.5,1
+2017,22,Ang Mo Kio,6,4.0,2
+2017,22,Khatib,11,8.5,6
+2017,22,Tuas South,3,1.5,0
+2017,22,Marina Barrage,1,0.5,0
+2017,23,Changi,5,3.5,2
+2017,23,Ang Mo Kio,15,12.5,10
+2017,23,Khatib,5,3.5,2
+2017,23,Tuas South,4,3.5,3
+2017,23,Marina Barrage,2,1.5,1
+2017,24,Changi,5,2.5,0
+2017,24,Ang Mo Kio,10,10.0,10
+2017,24,Khatib,3,2.5,2
+2017,24,Tuas South,3,3.0,3
+2017,24,Marina Barrage,2,1.0,0
+2017,25,Changi,11,9.5,8
+2017,25,Ang Mo Kio,12,9.0,6
+2017,25,Khatib,2,2.0,2
+2017,25,Tuas South,6,4.0,2
+2017,25,Marina Barrage,0,0.0,0
+2017,26,Changi,14,8.0,4
+2017,26,Ang Mo Kio,13,10.333333333333334,7
+2017,26,Khatib,5,3.6666666666666665,2
+2017,26,Tuas South,9,7.333333333333333,6
+2017,26,Marina Barrage,6,2.3333333333333335,0
+2017,27,Changi,7,5.0,3
+2017,27,Ang Mo Kio,7,5.0,3
+2017,27,Khatib,7,6.5,6
+2017,27,Tuas South,7,3.5,0
+2017,27,Marina Barrage,5,4.5,4
+2017,28,Changi,10,8.5,7
+2017,28,Ang Mo Kio,8,4.5,1
+2017,28,Khatib,4,2.0,0
+2017,28,Tuas South,2,1.0,0
+2017,28,Marina Barrage,2,2.0,2
+2017,29,Changi,7,5.5,4
+2017,29,Ang Mo Kio,10,8.5,7
+2017,29,Khatib,1,0.5,0
+2017,29,Tuas South,1,0.5,0
+2017,29,Marina Barrage,2,1.5,1
+2017,30,Changi,3,2.5,2
+2017,30,Ang Mo Kio,10,9.0,8
+2017,30,Khatib,3,2.5,2
+2017,30,Tuas South,0,0.0,0
+2017,30,Marina Barrage,0,0.0,0
+2017,31,Changi,1,0.5,0
+2017,31,Ang Mo Kio,17,14.0,11
+2017,31,Khatib,1,0.5,0
+2017,31,Tuas South,2,1.0,0
+2017,31,Marina Barrage,4,3.0,2
+2017,32,Changi,7,4.5,2
+2017,32,Ang Mo Kio,15,14.5,14
+2017,32,Khatib,4,4.0,4
+2017,32,Tuas South,0,0.0,0
+2017,32,Marina Barrage,3,2.5,2
+2017,33,Changi,6,5.5,5
+2017,33,Ang Mo Kio,12,12.0,12
+2017,33,Khatib,3,1.5,0
+2017,33,Tuas South,0,0.0,0
+2017,33,Marina Barrage,2,1.0,0
+2017,34,Changi,3,3.0,3
+2017,34,Ang Mo Kio,11,11.0,11
+2017,34,Khatib,0,0.0,0
+2017,34,Tuas South,0,0.0,0
+2017,34,Marina Barrage,2,2.0,2
+2017,35,Changi,6,3.0,0
+2017,35,Ang Mo Kio,14,11.5,9
+2017,35,Khatib,1,0.5,0
+2017,35,Tuas South,0,0.0,0
+2017,35,Marina Barrage,2,2.0,2
+2017,36,Changi,3,2.5,2
+2017,36,Ang Mo Kio,10,9.5,9
+2017,36,Khatib,2,1.5,1
+2017,36,Tuas South,0,0.0,0
+2017,36,Marina Barrage,1,0.5,0
+2017,37,Changi,3,1.5,0
+2017,37,Ang Mo Kio,8,7.0,6
+2017,37,Khatib,2,1.0,0
+2017,37,Tuas South,0,0.0,0
+2017,37,Marina Barrage,0,0.0,0
+2017,38,Changi,2,1.0,0
+2017,38,Ang Mo Kio,7,6.0,5
+2017,38,Khatib,0,0.0,0
+2017,38,Tuas South,2,2.0,2
+2017,38,Marina Barrage,0,0.0,0
+2017,39,Changi,2,1.5,1
+2017,39,Ang Mo Kio,6,4.5,3
+2017,39,Khatib,0,0.0,0
+2017,39,Tuas South,1,0.5,0
+2017,39,Marina Barrage,0,0.0,0
+2017,40,Changi,8,5.0,2
+2017,40,Ang Mo Kio,3,2.0,1
+2017,40,Khatib,3,1.5,0
+2017,40,Tuas South,1,0.5,0
+2017,40,Marina Barrage,1,0.5,0
+2017,42,Changi,13,11.0,8
+2017,42,Ang Mo Kio,4,2.3333333333333335,0
+2017,42,Khatib,3,1.0,0
+2017,42,Tuas South,1,0.3333333333333333,0
+2017,42,Marina Barrage,2,1.6666666666666667,1
+2017,41,Changi,13,13.0,13
+2017,41,Ang Mo Kio,6,6.0,6
+2017,41,Khatib,0,0.0,0
+2017,41,Tuas South,0,0.0,0
+2017,41,Marina Barrage,2,2.0,2
+2017,43,Changi,19,19.0,19
+2017,43,Ang Mo Kio,2,2.0,2
+2017,43,Khatib,2,2.0,2
+2017,43,Tuas South,0,0.0,0
+2017,43,Marina Barrage,6,6.0,6
+2017,44,Changi,15,14.0,13
+2017,44,Ang Mo Kio,2,1.5,1
+2017,44,Khatib,2,2.0,2
+2017,44,Tuas South,0,0.0,0
+2017,44,Marina Barrage,5,4.0,3
+2017,45,Changi,15,12.0,9
+2017,45,Ang Mo Kio,1,0.5,0
+2017,45,Khatib,1,0.5,0
+2017,45,Tuas South,0,0.0,0
+2017,45,Marina Barrage,2,1.0,0
+2017,46,Changi,8,8.0,8
+2017,46,Ang Mo Kio,1,1.0,1
+2017,46,Khatib,1,1.0,1
+2017,46,Tuas South,0,0.0,0
+2017,46,Marina Barrage,0,0.0,0
+2017,47,Changi,12,9.5,7
+2017,47,Ang Mo Kio,4,2.5,1
+2017,47,Khatib,1,1.0,1
+2017,47,Tuas South,2,1.0,0
+2017,47,Marina Barrage,2,1.0,0
+2017,48,Changi,5,4.0,3
+2017,48,Ang Mo Kio,4,2.5,1
+2017,48,Khatib,1,0.5,0
+2017,48,Tuas South,0,0.0,0
+2017,48,Marina Barrage,1,1.0,1
+2017,49,Changi,5,3.5,2
+2017,49,Ang Mo Kio,2,1.5,1
+2017,49,Khatib,0,0.0,0
+2017,49,Tuas South,0,0.0,0
+2017,49,Marina Barrage,1,0.5,0
+2017,50,Changi,7,6.5,6
+2017,50,Ang Mo Kio,3,2.5,2
+2017,50,Khatib,0,0.0,0
+2017,50,Tuas South,0,0.0,0
+2017,50,Marina Barrage,0,0.0,0
+2017,51,Changi,5,4.5,4
+2017,51,Ang Mo Kio,7,5.0,3
+2017,51,Khatib,5,2.5,0
+2017,51,Tuas South,0,0.0,0
+2017,51,Marina Barrage,3,1.5,0
+2017,52,Changi,5,5.0,5
+2017,52,Ang Mo Kio,7,7.0,7
+2017,52,Khatib,7,7.0,7
+2017,52,Tuas South,0,0.0,0
+2017,52,Marina Barrage,3,3.0,3
+2018,1,Changi,5,4.0,3
+2018,1,Ang Mo Kio,47,27.0,7
+2018,1,Khatib,2,2.0,2
+2018,1,Tuas South,0,0.0,0
+2018,1,Marina Barrage,1,0.5,0
+2018,2,Changi,9,7.5,6
+2018,2,Ang Mo Kio,45,39.0,33
+2018,2,Khatib,0,0.0,0
+2018,2,Tuas South,2,2.0,2
+2018,2,Marina Barrage,3,2.5,2
+2018,3,Changi,6,5.5,5
+2018,3,Ang Mo Kio,39,33.5,28
+2018,3,Khatib,3,1.5,0
+2018,3,Tuas South,2,1.0,0
+2018,3,Marina Barrage,1,0.5,0
+2018,4,Changi,7,6.5,6
+2018,4,Ang Mo Kio,15,15.0,15
+2018,4,Khatib,3,2.5,2
+2018,4,Tuas South,0,0.0,0
+2018,4,Marina Barrage,0,0.0,0
+2018,5,Changi,14,10.0,6
+2018,5,Ang Mo Kio,8,6.5,5
+2018,5,Khatib,2,1.0,0
+2018,5,Tuas South,1,0.5,0
+2018,5,Marina Barrage,0,0.0,0
+2018,6,Changi,18,15.5,13
+2018,6,Ang Mo Kio,5,4.0,3
+2018,6,Khatib,4,2.0,0
+2018,6,Tuas South,1,0.5,0
+2018,6,Marina Barrage,0,0.0,0
+2018,7,Changi,9,8.5,8
+2018,7,Ang Mo Kio,3,1.5,0
+2018,7,Khatib,10,7.0,4
+2018,7,Tuas South,0,0.0,0
+2018,7,Marina Barrage,3,2.5,2
+2018,8,Changi,2,1.0,0
+2018,8,Ang Mo Kio,0,0.0,0
+2018,8,Khatib,6,4.5,3
+2018,8,Tuas South,0,0.0,0
+2018,8,Marina Barrage,1,0.5,0
+2018,9,Changi,0,0.0,0
+2018,9,Ang Mo Kio,0,0.0,0
+2018,9,Khatib,4,3.0,2
+2018,9,Tuas South,0,0.0,0
+2018,9,Marina Barrage,1,0.5,0
+2018,10,Changi,7,3.5,0
+2018,10,Ang Mo Kio,6,4.0,2
+2018,10,Khatib,5,3.5,2
+2018,10,Tuas South,0,0.0,0
+2018,10,Marina Barrage,3,2.5,2
+2018,11,Changi,12,8.5,5
+2018,11,Ang Mo Kio,2,1.0,0
+2018,11,Khatib,3,1.5,0
+2018,11,Tuas South,0,0.0,0
+2018,11,Marina Barrage,2,1.5,1
+2018,12,Changi,13,11.5,10
+2018,12,Ang Mo Kio,2,1.5,1
+2018,12,Khatib,0,0.0,0
+2018,12,Tuas South,0,0.0,0
+2018,12,Marina Barrage,2,1.0,0
+2018,13,Changi,6,4.5,3
+2018,13,Ang Mo Kio,3,2.5,2
+2018,13,Khatib,0,0.0,0
+2018,13,Tuas South,1,1.0,1
+2018,13,Marina Barrage,0,0.0,0
+2018,14,Changi,13,9.5,6
+2018,14,Ang Mo Kio,3,1.5,0
+2018,14,Khatib,3,1.5,0
+2018,14,Tuas South,4,2.5,1
+2018,14,Marina Barrage,2,1.0,0
+2018,15,Changi,9,7.5,6
+2018,15,Ang Mo Kio,2,1.0,0
+2018,15,Khatib,6,5.5,5
+2018,15,Tuas South,6,5.0,4
+2018,15,Marina Barrage,8,5.0,2
+2018,16,Changi,5,4.5,4
+2018,16,Ang Mo Kio,4,3.0,2
+2018,16,Khatib,3,2.5,2
+2018,16,Tuas South,12,8.0,4
+2018,16,Marina Barrage,7,6.0,5
+2018,17,Changi,6,5.5,5
+2018,17,Ang Mo Kio,3,2.0,1
+2018,17,Khatib,8,4.5,1
+2018,17,Tuas South,24,17.5,11
+2018,17,Marina Barrage,7,3.5,0
+2018,18,Changi,14,11.5,9
+2018,18,Ang Mo Kio,2,1.5,1
+2018,18,Khatib,8,8.0,8
+2018,18,Tuas South,32,24.5,17
+2018,18,Marina Barrage,0,0.0,0
+2018,19,Changi,13,11.5,10
+2018,19,Ang Mo Kio,3,2.0,1
+2018,19,Khatib,4,3.0,2
+2018,19,Tuas South,27,25.5,24
+2018,19,Marina Barrage,0,0.0,0
+2018,20,Changi,7,7.0,7
+2018,20,Ang Mo Kio,2,2.0,2
+2018,20,Khatib,2,1.0,0
+2018,20,Tuas South,20,15.0,10
+2018,20,Marina Barrage,4,2.0,0
+2018,21,Changi,13,8.5,4
+2018,21,Ang Mo Kio,3,1.5,0
+2018,21,Khatib,3,3.0,3
+2018,21,Tuas South,15,11.5,8
+2018,21,Marina Barrage,5,4.0,3
+2018,22,Changi,15,12.5,10
+2018,22,Ang Mo Kio,6,5.0,4
+2018,22,Khatib,2,1.5,1
+2018,22,Tuas South,9,8.0,7
+2018,22,Marina Barrage,8,5.0,2
+2018,23,Changi,12,8.5,5
+2018,23,Ang Mo Kio,9,6.5,4
+2018,23,Khatib,1,0.5,0
+2018,23,Tuas South,3,2.5,2
+2018,23,Marina Barrage,9,6.5,4
+2018,24,Changi,12,10.5,9
+2018,24,Ang Mo Kio,7,6.0,5
+2018,24,Khatib,5,2.5,0
+2018,24,Tuas South,0,0.0,0
+2018,24,Marina Barrage,6,6.0,6
+2018,25,Changi,12,6.5,1
+2018,25,Ang Mo Kio,7,5.0,3
+2018,25,Khatib,8,7.0,6
+2018,25,Tuas South,2,1.5,1
+2018,25,Marina Barrage,6,5.5,5
+2018,26,Changi,6,3.5,1
+2018,26,Ang Mo Kio,4,3.5,3
+2018,26,Khatib,9,7.0,5
+2018,26,Tuas South,3,2.0,1
+2018,26,Marina Barrage,5,3.5,2
+2018,27,Changi,5,3.5,2
+2018,27,Ang Mo Kio,3,2.5,2
+2018,27,Khatib,10,8.5,7
+2018,27,Tuas South,4,3.5,3
+2018,27,Marina Barrage,8,6.5,5
+2018,28,Changi,2,1.0,0
+2018,28,Ang Mo Kio,3,2.5,2
+2018,28,Khatib,10,8.0,6
+2018,28,Tuas South,2,1.0,0
+2018,28,Marina Barrage,7,6.5,6
+2018,29,Changi,0,0.0,0
+2018,29,Ang Mo Kio,4,4.0,4
+2018,29,Khatib,5,4.5,4
+2018,29,Tuas South,2,1.0,0
+2018,29,Marina Barrage,6,5.0,4
+2018,30,Changi,2,1.0,0
+2018,30,Ang Mo Kio,4,3.5,3
+2018,30,Khatib,8,4.5,1
+2018,30,Tuas South,1,0.5,0
+2018,30,Marina Barrage,2,1.5,1
+2018,31,Changi,3,3.0,3
+2018,31,Ang Mo Kio,4,2.0,0
+2018,31,Khatib,10,8.0,6
+2018,31,Tuas South,0,0.0,0
+2018,31,Marina Barrage,4,2.0,0
+2018,32,Changi,5,3.5,2
+2018,32,Ang Mo Kio,7,3.5,0
+2018,32,Khatib,5,3.5,2
+2018,32,Tuas South,0,0.0,0
+2018,32,Marina Barrage,10,7.0,4
+2018,33,Changi,5,2.5,0
+2018,33,Ang Mo Kio,4,2.0,0
+2018,33,Khatib,11,7.0,3
+2018,33,Tuas South,1,0.5,0
+2018,33,Marina Barrage,8,7.5,7
+2018,34,Changi,4,2.0,0
+2018,34,Ang Mo Kio,3,2.5,2
+2018,34,Khatib,13,13.0,13
+2018,34,Tuas South,0,0.0,0
+2018,34,Marina Barrage,6,5.5,5
+2018,35,Changi,3,3.0,3
+2018,35,Ang Mo Kio,8,6.0,4
+2018,35,Khatib,24,19.0,14
+2018,35,Tuas South,1,0.5,0
+2018,35,Marina Barrage,4,4.0,4
+2018,36,Changi,1,0.5,0
+2018,36,Ang Mo Kio,11,9.5,8
+2018,36,Khatib,23,18.5,14
+2018,36,Tuas South,1,0.5,0
+2018,36,Marina Barrage,4,3.5,3
+2018,37,Changi,2,1.0,0
+2018,37,Ang Mo Kio,14,12.5,11
+2018,37,Khatib,22,20.0,18
+2018,37,Tuas South,0,0.0,0
+2018,37,Marina Barrage,3,2.0,1
+2018,38,Changi,1,0.5,0
+2018,38,Ang Mo Kio,9,7.0,5
+2018,38,Khatib,21,19.5,18
+2018,38,Tuas South,0,0.0,0
+2018,38,Marina Barrage,0,0.0,0
+2018,39,Changi,0,0.0,0
+2018,39,Ang Mo Kio,14,10.5,7
+2018,39,Khatib,19,17.0,15
+2018,39,Tuas South,2,2.0,2
+2018,39,Marina Barrage,4,2.0,0
+2018,40,Changi,2,1.0,0
+2018,40,Ang Mo Kio,4,3.5,3
+2018,40,Khatib,13,12.0,11
+2018,40,Tuas South,2,1.0,0
+2018,40,Marina Barrage,3,2.5,2
+2018,41,Changi,1,0.5,0
+2018,41,Ang Mo Kio,11,7.5,4
+2018,41,Khatib,10,9.0,8
+2018,41,Tuas South,1,0.5,0
+2018,41,Marina Barrage,2,1.5,1
+2018,42,Changi,2,1.0,0
+2018,42,Ang Mo Kio,19,17.0,15
+2018,42,Khatib,8,7.0,6
+2018,42,Tuas South,1,0.5,0
+2018,42,Marina Barrage,1,0.5,0
+2018,43,Changi,2,2.0,2
+2018,43,Ang Mo Kio,16,14.5,13
+2018,43,Khatib,14,10.5,7
+2018,43,Tuas South,0,0.0,0
+2018,43,Marina Barrage,0,0.0,0
+2018,44,Changi,6,4.0,2
+2018,44,Ang Mo Kio,19,18.0,17
+2018,44,Khatib,18,16.0,14
+2018,44,Tuas South,2,1.0,0
+2018,44,Marina Barrage,4,3.0,2
+2018,45,Changi,3,3.0,3
+2018,45,Ang Mo Kio,20,20.0,20
+2018,45,Khatib,10,10.0,10
+2018,45,Tuas South,1,1.0,1
+2018,45,Marina Barrage,4,4.0,4
+2018,46,Changi,10,10.0,10
+2018,46,Ang Mo Kio,27,27.0,27
+2018,46,Khatib,13,13.0,13
+2018,46,Tuas South,0,0.0,0
+2018,46,Marina Barrage,1,1.0,1
+2018,47,Changi,23,17.5,12
+2018,47,Ang Mo Kio,25,24.5,24
+2018,47,Khatib,14,12.0,10
+2018,47,Tuas South,2,1.0,0
+2018,47,Marina Barrage,3,2.5,2
+2018,48,Changi,26,21.0,16
+2018,48,Ang Mo Kio,21,19.5,18
+2018,48,Khatib,15,14.5,14
+2018,48,Tuas South,2,1.5,1
+2018,48,Marina Barrage,1,0.5,0
+2018,49,Changi,20,17.5,15
+2018,49,Ang Mo Kio,16,15.5,15
+2018,49,Khatib,12,11.0,10
+2018,49,Tuas South,2,2.0,2
+2018,49,Marina Barrage,1,0.5,0
+2018,50,Changi,16,14.5,13
+2018,50,Ang Mo Kio,22,22.0,22
+2018,50,Khatib,12,12.0,12
+2018,50,Tuas South,5,3.5,2
+2018,50,Marina Barrage,1,1.0,1
+2018,51,Changi,18,13.5,9
+2018,51,Ang Mo Kio,32,25.5,19
+2018,51,Khatib,13,11.5,10
+2018,51,Tuas South,6,5.0,4
+2018,51,Marina Barrage,5,3.5,2
+2018,52,Changi,39,30.0,17
+2018,52,Ang Mo Kio,31,27.0,23
+2018,52,Khatib,16,14.333333333333334,13
+2018,52,Tuas South,8,6.0,3
+2018,52,Marina Barrage,7,6.0,5
+2019,1,Changi,42,42.0,42
+2019,1,Ang Mo Kio,44,44.0,44
+2019,1,Khatib,15,15.0,15
+2019,1,Tuas South,12,12.0,12
+2019,1,Marina Barrage,8,8.0,8
+2019,2,Changi,59,51.0,43
+2019,2,Ang Mo Kio,56,48.0,40
+2019,2,Khatib,34,28.5,23
+2019,2,Tuas South,30,22.0,14
+2019,2,Marina Barrage,20,14.5,9
+2019,3,Changi,78,65.5,53
+2019,3,Ang Mo Kio,57,57.0,57
+2019,3,Khatib,42,38.5,35
+2019,3,Tuas South,26,25.0,24
+2019,3,Marina Barrage,21,20.5,20
+2019,4,Changi,74,68.5,63
+2019,4,Ang Mo Kio,45,39.5,34
+2019,4,Khatib,33,32.5,32
+2019,4,Tuas South,24,21.5,19
+2019,4,Marina Barrage,29,20.5,12
+2019,5,Changi,61,61.0,61
+2019,5,Ang Mo Kio,40,40.0,40
+2019,5,Khatib,45,45.0,45
+2019,5,Tuas South,12,12.0,12
+2019,5,Marina Barrage,33,33.0,33
+2019,14,Changi,13,13.0,13
+2019,14,Ang Mo Kio,20,20.0,20
+2019,14,Khatib,37,37.0,37
+2019,14,Tuas South,3,3.0,3
+2019,14,Marina Barrage,11,11.0,11
+2019,15,Changi,7,7.0,7
+2019,15,Ang Mo Kio,17,17.0,17
+2019,15,Khatib,34,34.0,34
+2019,15,Tuas South,0,0.0,0
+2019,15,Marina Barrage,8,8.0,8
+2019,16,Changi,11,11.0,11
+2019,16,Ang Mo Kio,29,29.0,29
+2019,16,Khatib,46,46.0,46
+2019,16,Tuas South,0,0.0,0
+2019,16,Marina Barrage,17,17.0,17
+2019,17,Changi,9,9.0,9
+2019,17,Ang Mo Kio,26,26.0,26
+2019,17,Khatib,48,48.0,48
+2019,17,Tuas South,1,1.0,1
+2019,17,Marina Barrage,7,7.0,7
+2019,18,Changi,29,17.5,6
+2019,18,Ang Mo Kio,18,16.5,15
+2019,18,Khatib,56,52.5,49
+2019,18,Tuas South,0,0.0,0
+2019,18,Marina Barrage,21,15.0,9
+2019,19,Changi,16,16.0,16
+2019,19,Ang Mo Kio,39,39.0,39
+2019,19,Khatib,94,94.0,94
+2019,19,Tuas South,2,2.0,2
+2019,19,Marina Barrage,81,81.0,81
+2019,20,Changi,79,79.0,79
+2019,20,Ang Mo Kio,44,44.0,44
+2019,20,Khatib,147,147.0,147
+2019,20,Tuas South,10,10.0,10
+2019,20,Marina Barrage,66,66.0,66
+2019,21,Changi,76,76.0,76
+2019,21,Ang Mo Kio,80,80.0,80
+2019,21,Khatib,135,135.0,135
+2019,21,Tuas South,11,11.0,11
+2019,21,Marina Barrage,69,69.0,69
+2019,22,Changi,68,68.0,68
+2019,22,Ang Mo Kio,80,80.0,80
+2019,22,Khatib,106,106.0,106
+2019,22,Tuas South,12,12.0,12
+2019,22,Marina Barrage,56,56.0,56
+2019,23,Changi,85,71.5,58
+2019,23,Ang Mo Kio,146,131.0,116
+2019,23,Khatib,128,115.5,103
+2019,23,Tuas South,9,7.0,5
+2019,23,Marina Barrage,96,90.5,85
+2019,24,Changi,73,73.0,73
+2019,24,Ang Mo Kio,153,153.0,153
+2019,24,Khatib,121,121.0,121
+2019,24,Tuas South,19,19.0,19
+2019,24,Marina Barrage,92,92.0,92
+2019,25,Changi,86,86.0,86
+2019,25,Ang Mo Kio,159,159.0,159
+2019,25,Khatib,93,93.0,93
+2019,25,Tuas South,23,23.0,23
+2019,25,Marina Barrage,106,106.0,106
+2019,26,Changi,147,147.0,147
+2019,26,Ang Mo Kio,159,159.0,159
+2019,26,Khatib,83,83.0,83
+2019,26,Tuas South,22,22.0,22
+2019,26,Marina Barrage,163,163.0,163
+2019,27,Changi,166,153.0,140
+2019,27,Ang Mo Kio,195,168.5,142
+2019,27,Khatib,76,73.5,71
+2019,27,Tuas South,18,15.5,13
+2019,27,Marina Barrage,165,148.0,131
+2019,28,Changi,176,176.0,176
+2019,28,Ang Mo Kio,291,291.0,291
+2019,28,Khatib,80,80.0,80
+2019,28,Tuas South,24,24.0,24
+2019,28,Marina Barrage,206,206.0,206
+2019,29,Changi,207,207.0,207
+2019,29,Ang Mo Kio,341,341.0,341
+2019,29,Khatib,92,92.0,92
+2019,29,Tuas South,32,32.0,32
+2019,29,Marina Barrage,263,263.0,263
+2019,30,Changi,156,156.0,156
+2019,30,Ang Mo Kio,270,270.0,270
+2019,30,Khatib,101,101.0,101
+2019,30,Tuas South,39,39.0,39
+2019,30,Marina Barrage,161,161.0,161
+2019,31,Changi,157,157.0,157
+2019,31,Ang Mo Kio,275,275.0,275
+2019,31,Khatib,127,127.0,127
+2019,31,Tuas South,29,29.0,29
+2019,31,Marina Barrage,141,141.0,141
+2019,32,Changi,123,123.0,123
+2019,32,Ang Mo Kio,280,280.0,280
+2019,32,Khatib,117,117.0,117
+2019,32,Tuas South,15,15.0,15
+2019,32,Marina Barrage,133,133.0,133
+2019,33,Changi,117,117.0,117
+2019,33,Ang Mo Kio,284,284.0,284
+2019,33,Khatib,123,123.0,123
+2019,33,Tuas South,20,20.0,20
+2019,33,Marina Barrage,112,112.0,112
+2019,35,Changi,88,88.0,88
+2019,35,Ang Mo Kio,240,240.0,240
+2019,35,Khatib,117,117.0,117
+2019,35,Tuas South,14,14.0,14
+2019,35,Marina Barrage,114,114.0,114
+2019,36,Changi,59,59.0,59
+2019,36,Ang Mo Kio,212,212.0,212
+2019,36,Khatib,64,64.0,64
+2019,36,Tuas South,5,5.0,5
+2019,36,Marina Barrage,65,65.0,65
+2019,37,Changi,52,52.0,52
+2019,37,Ang Mo Kio,182,182.0,182
+2019,37,Khatib,58,58.0,58
+2019,37,Tuas South,2,2.0,2
+2019,37,Marina Barrage,66,66.0,66
+2019,38,Changi,60,60.0,60
+2019,38,Ang Mo Kio,144,144.0,144
+2019,38,Khatib,32,32.0,32
+2019,38,Tuas South,17,17.0,17
+2019,38,Marina Barrage,76,76.0,76
+2019,39,Changi,66,66.0,66
+2019,39,Ang Mo Kio,119,119.0,119
+2019,39,Khatib,46,46.0,46
+2019,39,Tuas South,13,13.0,13
+2019,39,Marina Barrage,55,55.0,55
+2019,40,Changi,38,38.0,38
+2019,40,Ang Mo Kio,81,81.0,81
+2019,40,Khatib,41,41.0,41
+2019,40,Tuas South,11,11.0,11
+2019,40,Marina Barrage,47,47.0,47
+2019,41,Changi,32,32.0,32
+2019,41,Ang Mo Kio,82,82.0,82
+2019,41,Khatib,38,38.0,38
+2019,41,Tuas South,11,11.0,11
+2019,41,Marina Barrage,41,41.0,41
+2019,42,Changi,48,48.0,48
+2019,42,Ang Mo Kio,75,75.0,75
+2019,42,Khatib,38,38.0,38
+2019,42,Tuas South,11,11.0,11
+2019,42,Marina Barrage,23,23.0,23
+2019,43,Changi,69,69.0,69
+2019,43,Ang Mo Kio,101,101.0,101
+2019,43,Khatib,30,30.0,30
+2019,43,Tuas South,10,10.0,10
+2019,43,Marina Barrage,12,12.0,12
+2019,44,Changi,59,59.0,59
+2019,44,Ang Mo Kio,131,131.0,131
+2019,44,Khatib,58,58.0,58
+2019,44,Tuas South,12,12.0,12
+2019,44,Marina Barrage,19,19.0,19
+2019,45,Changi,38,38.0,38
+2019,45,Ang Mo Kio,144,144.0,144
+2019,45,Khatib,73,73.0,73
+2019,45,Tuas South,31,31.0,31
+2019,45,Marina Barrage,26,26.0,26
+2019,46,Changi,48,48.0,48
+2019,46,Ang Mo Kio,148,148.0,148
+2019,46,Khatib,98,98.0,98
+2019,46,Tuas South,46,46.0,46
+2019,46,Marina Barrage,24,24.0,24
+2019,47,Changi,66,66.0,66
+2019,47,Ang Mo Kio,156,156.0,156
+2019,47,Khatib,127,127.0,127
+2019,47,Tuas South,47,47.0,47
+2019,47,Marina Barrage,22,22.0,22
+2019,48,Changi,52,52.0,52
+2019,48,Ang Mo Kio,143,143.0,143
+2019,48,Khatib,96,96.0,96
+2019,48,Tuas South,40,40.0,40
+2019,48,Marina Barrage,18,18.0,18
+2019,49,Changi,34,34.0,34
+2019,49,Ang Mo Kio,146,146.0,146
+2019,49,Khatib,69,69.0,69
+2019,49,Tuas South,23,23.0,23
+2019,49,Marina Barrage,24,24.0,24
+2019,50,Changi,26,26.0,26
+2019,50,Ang Mo Kio,111,111.0,111
+2019,50,Khatib,75,75.0,75
+2019,50,Tuas South,7,7.0,7
+2019,50,Marina Barrage,29,29.0,29
+2019,51,Changi,33,33.0,33
+2019,51,Ang Mo Kio,93,93.0,93
+2019,51,Khatib,60,60.0,60
+2019,51,Tuas South,10,10.0,10
+2019,51,Marina Barrage,19,19.0,19
+2019,52,Changi,17,17.0,17
+2019,52,Ang Mo Kio,100,100.0,100
+2019,52,Khatib,75,75.0,75
+2019,52,Tuas South,12,12.0,12
+2019,52,Marina Barrage,14,14.0,14
